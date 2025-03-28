@@ -18,7 +18,7 @@
  → Real-time monitoring (SIEM), security playbooks, and attack simulations.
 
 
-🧪 Projects in Progress: → Deploying web apps in AWS, Terraform infrastructure automation, threat modeling for fictional companies, and incident response simulations using real-world scenarios.
+🧪 Projects → Deploying web apps in AWS, Terraform infrastructure automation, threat modeling for fictional companies, and incident response simulations using real-world scenarios.
 
 🧰 Tools: GitHub, Terraform, Docker, Kubernetes, Wireshark, Burp Suite, Metasploit, SIEM, and JIRA.
 
