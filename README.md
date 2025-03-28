@@ -1,4 +1,4 @@
-👋 Hi, I’m @nfroze, im currently expanding my knowledge on these key areas
+👋 Hi, I’m @nfroze, im currently expanding my knowledge on these key areas...
 
 
 🏛 Cybersecurity Frameworks & Governance
