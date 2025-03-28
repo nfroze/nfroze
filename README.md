@@ -23,4 +23,4 @@
 🧰 Tools: GitHub, Terraform, Docker, Kubernetes, Wireshark, Burp Suite, Metasploit, SIEM, and JIRA.
 
 
-📜 Certifications I'm Pursuing: → CompTIA Security+, AWS Cloud Practitioner, Google Cloud Security, Terraform Associate, GitHub Actions Security and AWS Certified AI Practitioner
+📜 Certifications → CompTIA Security+, AWS Cloud Practitioner, Google Cloud Security, Terraform Associate, GitHub Actions Security and AWS Certified AI Practitioner
