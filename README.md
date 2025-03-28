@@ -1,5 +1,7 @@
 👋 Hi, I’m @nfroze, im currently expanding my knowledge on these key areas
 
+---
+
 🏛 Cybersecurity Frameworks & Governance
  → NIST & ISO 27001, GRC, risk assessments, incident response, and disaster recovery.
 
