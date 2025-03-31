@@ -37,7 +37,7 @@ I’m passionate about building and securing systems the right way — from CI/C
 - Conducts an **inherent risk assessment** to prioritize threats based on likelihood and impact
 - Will simulate a **NIST-aligned incident response plan** based on one modeled attack scenario
 
-> 📌 The fictional company and scenario design are currently in development. This project will be updated as each section is completed.
+> 📌 Based on a fictional company
 
 ### 📦 [Project 5: End-to-End DevSecOps Transformation](https://github.com/nfroze/Project-5---End-to-End-DevSecOps-Transformation)
 - Securing a fictional company from the ground up after a simulated security breach
