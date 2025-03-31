@@ -8,7 +8,7 @@ I’m passionate about building and securing systems the right way — from CI/C
 
 ## 🔐 DevSecOps Projects
 
-### 🛠️ Project 1: CI/CD Pipeline Security
+### 🛠️ [Project 1: CI/CD Pipeline Security](https://github.com/nfroze/Project-1-CI-CD-Pipeline-Security)
 - Built a secure GitHub Actions workflow integrating:
   - **SAST** with Semgrep  
   - **SCA** with npm audit  
@@ -16,19 +16,19 @@ I’m passionate about building and securing systems the right way — from CI/C
 - Prevented vulnerable or misconfigured code from being merged or deployed  
 - Demonstrated shift-left security and fail-fast pipeline design
 
-### 🐳 Project 2: Image and Runtime Application Security
+### 🐳 [Project 2: Image and Runtime Application Security](https://github.com/nfroze/Project-2-Image-and-Runtime-Application-Security)
 - Built and scanned Docker images using **Trivy**
 - Pushed secure images to Docker Hub and deployed to **Amazon ECS**
 - Performed **DAST** using **OWASP ZAP** on the live ECS service
 - IAM roles separated by least privilege for task and execution roles
 
-### ☁️ Project 3: Infrastructure as Code (IaC) Security
+### ☁️ [Project 3: Infrastructure as Code (IaC) Security](https://github.com/nfroze/Project-3-Infrastructure-as-Code-IaC-Security)
 - Used **Terraform** to provision secure AWS infrastructure (IAM, S3, EC2)
 - Integrated **Checkov** into a two-step CI/CD pipeline (scan → deploy)
 - Enforced least privilege IAM roles and secure state management via S3
 - Automated misconfiguration checks during PRs to ensure secure-by-default deployments
 
-### 🧠 Project 4: Threat Modeling & Incident Response (🚧 In Progress)
+### 🧠 [Project 4: Threat Modeling & Incident Response](https://github.com/nfroze/Project-4-Threat-Modeling-Incident-Response)
 - Simulating a full threat modeling workshop for a fictional cloud-based application
 - Includes **HLD** and **DFD** diagrams to map architecture, data flows, and trust boundaries
 - Applies the **STRIDE** threat model to assess control gaps across system components
@@ -39,7 +39,7 @@ I’m passionate about building and securing systems the right way — from CI/C
 
 > 📌 The fictional company and scenario design are currently in development. This project will be updated as each section is completed.
 
-### 📦 Project 5: End-to-End DevSecOps Transformation (🚧 In Progress)
+### 📦 [Project 5: End-to-End DevSecOps Transformation](https://github.com/nfroze/Project-5---End-to-End-DevSecOps-Transformation)
 - Securing a fictional company from the ground up after a simulated security breach
 - Covers **cloud infrastructure**, **CI/CD**, **application security**, and **incident response**
 - Builds an AWS environment using hardened **Terraform modules**
