@@ -39,6 +39,19 @@ I’m passionate about building and securing systems the right way — from CI/C
 
 > 📌 The fictional company and scenario design are currently in development. This project will be updated as each section is completed.
 
+### 📦 Project 5: End-to-End DevSecOps Transformation (🚧 In Progress)
+- Securing a fictional company from the ground up after a simulated security breach
+- Covers **cloud infrastructure**, **CI/CD**, **application security**, and **incident response**
+- Builds an AWS environment using hardened **Terraform modules**
+- Implements a full **DevSecOps pipeline** with:
+  - **SAST**, **SCA**, **IaC scanning**, and **container scanning**
+  - Secure **image builds** and deployment to ECS or K3s with IAM controls
+  - **Access controls** via IAM for role-based least privilege
+- Integrates **threat detection**, **risk analysis**, and a live **incident response drill**
+- Includes **before vs. after security state**, **architecture diagrams**, and documented risk reductions
+
+> 📌 This project ties together the skills from all previous projects and serves as a capstone case study.
+
 ---
 
 ## 📚 Certifications in Progress
@@ -60,7 +73,7 @@ I bring real-world discipline, technical curiosity, and a commitment to protecti
 
 ## 📬 Let’s Connect
 
-🔗 [LinkedIn] https://www.linkedin.com/in/noahfrost-devsecops 
+🔗 [LinkedIn](https://www.linkedin.com/in/noahfrost-devsecops)
 
 ---
 
