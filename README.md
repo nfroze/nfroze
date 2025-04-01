@@ -67,8 +67,6 @@ I bring real-world discipline, technical curiosity, and a commitment to protecti
 ---
 
 ## 📬 Let’s Connect
-
-🔗 [GitHub Profile](https://github.com/nfroze)  
 🔗 [LinkedIn](https://www.linkedin.com/in/noahfrost-devsecops)
 
 ---
