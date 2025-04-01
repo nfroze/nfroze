@@ -39,13 +39,9 @@ I’m passionate about building and securing systems the right way — from CI/C
 - Enforced security gate before cloud resources are deployed
 
 ### 🧠 [Project 4: Threat Modeling & Incident Response](https://github.com/nfroze/Project-4-Threat-Modeling-Incident-Response)
-- Simulates a full threat modeling workshop for a fictional enterprise-scale healthcare platform
-- Includes HLD and DFD diagrams to map architecture, data flows, and trust boundaries
-- Applies the STRIDE threat model to assess control gaps across system components
-- Maps attacker TTPs using the MITRE ATT&CK Framework
-- Uses the Cyber Kill Chain to break down the lifecycle of several simulated attacks
-- Conducts an inherent risk assessment to prioritize threats based on likelihood and impact
-- Simulates a NIST-aligned incident response plan based on one modeled attack scenario
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-STRIDE-blueviolet)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-TTPs-blue)
+![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-Analysis-lightgrey)$1
 
 ### 📦 [Project 5: End-to-End DevSecOps Transformation](https://github.com/nfroze/Project-5---End-to-End-DevSecOps-Transformation)
 ![SAST](https://img.shields.io/badge/SAST-Semgrep-orange)
