@@ -29,28 +29,28 @@ I’m passionate about building and securing systems the right way — from CI/C
 - Automated misconfiguration checks during PRs to ensure secure-by-default deployments
 
 ### 🧠 [Project 4: Threat Modeling & Incident Response](https://github.com/nfroze/Project-4-Threat-Modeling-Incident-Response)
-- Simulating a full threat modeling workshop for a fictional cloud-based application
+- Simulates a full threat modeling workshop for a fictional **enterprise-scale healthcare platform**
 - Includes **HLD** and **DFD** diagrams to map architecture, data flows, and trust boundaries
 - Applies the **STRIDE** threat model to assess control gaps across system components
 - Maps attacker TTPs using the **MITRE ATT&CK Framework**
 - Uses the **Cyber Kill Chain** to break down the lifecycle of several simulated attacks
 - Conducts an **inherent risk assessment** to prioritize threats based on likelihood and impact
-- Will simulate a **NIST-aligned incident response plan** based on one modeled attack scenario
+- Simulates a **NIST-aligned incident response plan** based on one modeled attack scenario
 
-> 📌 Based on a fictional company
+> 📌 This project is entirely independent from Project 5 and focuses exclusively on proactive security assessment for a large, fictional company.
 
 ### 📦 [Project 5: End-to-End DevSecOps Transformation](https://github.com/nfroze/Project-5---End-to-End-DevSecOps-Transformation)
-- Securing a fictional company from the ground up after a simulated security breach
-- Covers **cloud infrastructure**, **CI/CD**, **application security**, and **incident response**
-- Builds an AWS environment using hardened **Terraform modules**
-- Implements a full **DevSecOps pipeline** with:
+- Builds and secures a lightweight Node.js web app to demonstrate full SDLC security
+- Covers **cloud infrastructure**, **CI/CD**, **application security**, and **runtime protection**
+- Provisioned with **Terraform** (AWS VPC, IAM, ECS)
+- Implements a secure pipeline with:
   - **SAST**, **SCA**, **IaC scanning**, and **container scanning**
-  - Secure **image builds** and deployment to ECS or K3s with IAM controls
-  - **Access controls** via IAM for role-based least privilege
-- Integrates **threat detection**, **risk analysis**, and a live **incident response drill**
-- Includes **before vs. after security state**, **architecture diagrams**, and documented risk reductions
+  - GitHub Actions for fully automated deployment and scanning
+  - ECS deployment using secure Docker containers and IAM roles
+- Uses **OWASP ZAP** for post-deployment dynamic scanning
+- Focuses on realistic, scalable DevSecOps practices from infrastructure to production
 
-> 📌 This project ties together the skills from all previous projects and serves as a capstone case study.
+> 📌 This project is not linked to Project 4 and serves as a standalone demonstration of hands-on DevSecOps implementation.
 
 ---
 
