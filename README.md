@@ -37,8 +37,6 @@ I’m passionate about building and securing systems the right way — from CI/C
 - Conducts an **inherent risk assessment** to prioritize threats based on likelihood and impact
 - Simulates a **NIST-aligned incident response plan** based on one modeled attack scenario
 
-> 📌 This project is entirely independent from Project 5 and focuses exclusively on proactive security assessment for a large, fictional company.
-
 ### 📦 [Project 5: End-to-End DevSecOps Transformation](https://github.com/nfroze/Project-5---End-to-End-DevSecOps-Transformation)
 - Builds and secures a lightweight Node.js web app to demonstrate full SDLC security
 - Covers **cloud infrastructure**, **CI/CD**, **application security**, and **runtime protection**
@@ -49,8 +47,6 @@ I’m passionate about building and securing systems the right way — from CI/C
   - ECS deployment using secure Docker containers and IAM roles
 - Uses **OWASP ZAP** for post-deployment dynamic scanning
 - Focuses on realistic, scalable DevSecOps practices from infrastructure to production
-
-> 📌 This project is not linked to Project 4 and serves as a standalone demonstration of hands-on DevSecOps implementation.
 
 ---
 
