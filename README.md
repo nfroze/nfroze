@@ -54,8 +54,7 @@ I’m passionate about building and securing systems the right way — from CI/C
 - **CompTIA Security+**  
 - **AWS Cloud Practitioner**  
 - **Terraform Associate**  
-- **GitHub Actions Security**  
-- **Kubernetes and Cloud Native Security Associate**
+- **GitHub Actions Security**
 
 ---
 
