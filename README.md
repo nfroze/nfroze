@@ -11,8 +11,8 @@ I’m passionate about building and securing systems the right way — from CI/C
 ### 🛠️ [Project 1: CI/CD Pipeline Security](https://github.com/nfroze/Project-1-CI-CD-Pipeline-Security)
 
 - Built a secure pipeline integrating:
-  - Static code analysis (**Semgrep**)
-  - Software composition analysis (**npm audit**)
+  - SAST scanning (**Semgrep**)
+  - SCA scanning (**npm audit**)
   - Secrets scanning (**Gitleaks**)
 - Enforced fail-fast workflows to catch security issues early in development
 
