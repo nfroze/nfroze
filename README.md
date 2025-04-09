@@ -55,7 +55,7 @@ I’m passionate about building and securing systems the right way — from CI/C
 - **AWS Cloud Practitioner**  
 - **Terraform Associate**  
 - **GitHub Actions Security**  
-- **AWS Certified AI Practitioner** (with AI/ML Security focus)
+- **Kubernetes and Cloud Native Security Associate**
 
 ---
 
