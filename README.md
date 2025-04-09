@@ -42,9 +42,12 @@ I’m passionate about building and securing systems the right way — from CI/C
 
 - Builds and secures a lightweight Node.js web app to demonstrate full SDLC security
 - Covers cloud infrastructure, CI/CD, application security, and runtime protection
-- Automates scanning at each stage (Semgrep, Trivy, Checkov, Gitleaks, ZAP)
+- Automates scanning at each stage (Snyk, SonarQube, Trivy, Checkov, Gitleaks, ZAP)
 - Uses GitHub Actions to orchestrate and enforce shift-left security workflows
-- Deployed to AWS ECS via Terraform with hardened IAM configurations
+- Infrastructure provisioned via **Terraform** and deployed to **Amazon EKS**
+- Implements runtime security with **Falco** and **AWS GuardDuty**
+- Sends alerts to **Slack**, and logs to **Splunk Free (self-hosted)** for correlation
+- Monitors performance metrics using **CloudWatch Container Insights**
 - Applies threat-informed controls learned from Project 4
 
 ---
@@ -66,7 +69,7 @@ I bring real-world discipline, technical curiosity, and a commitment to protecti
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Let’s Connect  
 🔗 [LinkedIn](https://www.linkedin.com/in/noahfrost-devsecops)
 
 ---
