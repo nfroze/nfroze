@@ -27,6 +27,7 @@ I’m passionate about building and securing systems the right way — from CI/C
 
 - Used **Terraform** to provision secure AWS infrastructure (IAM, S3, EC2)
 - Integrated **Checkov** for automated misconfiguration detection
+- Automated terraform **init**, **plan**, and **apply** in a CI/CD pipeline using GitHub Actions
 - Enforced security gate before cloud resources are deployed
 
 ### 🧠 [Project 4: Threat Modeling & Incident Response](https://github.com/nfroze/Project-4-Threat-Modeling-Incident-Response)
