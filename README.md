@@ -19,7 +19,7 @@ I’m passionate about building and securing systems the right way — from CI/C
 ### 🐳 [Project 2: Image and Runtime Application Security](https://github.com/nfroze/Project-2-Image-and-Runtime-Application-Security)
 
 - Built and scanned Docker images using **Trivy**
-- Deployed secure containers to **Amazon ECS** with least privilege IAM roles
+- Deployed secure containers to **Amazon ECS** with least privilege IAM roles and a **Load Balancer** to maintain a static IP for external access and scanning
 - Performed **dynamic analysis** using **OWASP ZAP** on the live ECS service
 
 ### ☁️ [Project 3: Infrastructure as Code (IaC) Security](https://github.com/nfroze/Project-3-Infrastructure-as-Code-IaC-Security)
