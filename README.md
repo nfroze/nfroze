@@ -2,7 +2,14 @@
 
 **Former Police Constable turned DevSecOps Engineer**, combining a background in criminology and law with hands-on experience in cybersecurity, cloud infrastructure, and secure software delivery.
 
-I’m passionate about building and securing systems the right way — from CI/CD pipelines to cloud deployments — and I believe in shift-left security, automation, and continuous learning to stay ahead of modern threats.
+---
+
+## 🚀 What Drives Me
+
+Security is more than just a layer — it's a mindset.  
+I bring real-world discipline, technical curiosity, and a commitment to protecting systems just as I once protected people.
+
+I'm passionate about building and securing systems the right way — from CI/CD pipelines to cloud deployments — and I believe in shift-left security, automation, and continuous learning to stay ahead of modern threats.
 
 ---
 
@@ -11,9 +18,9 @@ I’m passionate about building and securing systems the right way — from CI/C
 ### 🛠️ [Project 1: CI/CD Pipeline Security](https://github.com/nfroze/Project-1-CI-CD-Pipeline-Security)
 
 - Built a secure pipeline integrating:
-  - SAST - Source code (**Semgrep**)
-  - SCA - Dependencies (**npm audit**)
-  - Secrets scanning (**Gitleaks**)
+ - SAST scanning (**Semgrep**)
+ - SCA scanning (**npm audit**)
+ - Secrets scanning (**Gitleaks**)
 - Enforced fail-fast workflows to catch security issues early in development
 
 ### 🐳 [Project 2: Image and Runtime Application Security](https://github.com/nfroze/Project-2-Image-and-Runtime-Application-Security)
@@ -40,39 +47,39 @@ I’m passionate about building and securing systems the right way — from CI/C
 - Conducts an inherent risk assessment to prioritize threats based on likelihood and impact
 - Simulates a NIST-aligned incident response plan based on one modeled attack scenario
 
-### 📦 [Project 5: End-to-End DevSecOps Transformation](https://github.com/nfroze/Project-5---End-to-End-DevSecOps-Transformation)
+### 📦 [Project 5: End-to-End DevSecOps Transformation](https://github.com/nfroze/Project-5-End-to-End-DevSecOps-Transformation)
 
-- Builds and secures a lightweight Node.js web app to demonstrate full SDLC security
-- Covers cloud infrastructure, CI/CD, application security, and runtime protection
-- Automates scanning at each stage (Snyk, SonarQube, Trivy, Checkov, Gitleaks, ZAP)
-- Uses GitHub Actions to orchestrate and enforce shift-left security workflows
-- Infrastructure provisioned via **Terraform** and deployed to **Amazon EKS**
-- Implements runtime security with **Falco** and **AWS GuardDuty**
-- Sends alerts to **Slack**, and logs to **Splunk Free (self-hosted)** for correlation
-- Monitors performance metrics using **CloudWatch Container Insights**
-- Applies threat-informed controls learned from Project 4
+- Complete DevSecOps pipeline for Node.js app deployed to **Amazon EKS**
+- Automated security scanning at every stage (SAST, DAST, SCA, IaC)
+- **Security toolchain**: Semgrep, Trivy, Gitleaks, OWASP ZAP, Checkov
+- Infrastructure as Code with **Terraform** (100% Checkov compliant)
+- Runtime monitoring with **AWS GuardDuty** and **CloudWatch**
+- Centralized security logging with **Splunk SIEM**
+- Full CI/CD automation with **GitHub Actions**
+- Implements security controls based on threat modeling from Project 4
 
 ---
 
-## 📚 Certifications in Progress
+## 🎯 Currently Seeking DevSecOps Opportunities
 
-- **CompTIA Security+**  
+Check out [Project 5](https://github.com/nfroze/Project-5-End-to-End-DevSecOps-Transformation) for my most comprehensive work showcasing production-ready security automation with real-world best practices.
+
+---
+
+## 📚 Certifications
+
+✅ **CompTIA Security+** (2024)
+
+### In Progress:
 - **AWS Cloud Practitioner**  
 - **Terraform Associate**  
 - **GitHub Actions Security**
 
 ---
 
-## 🚀 What Drives Me
-
-Security is more than just a layer — it’s a mindset.  
-I bring real-world discipline, technical curiosity, and a commitment to protecting systems just as I once protected people.
-
----
-
-## 📬 Let’s Connect  
+## 📬 Let's Connect  
 🔗 [LinkedIn](https://www.linkedin.com/in/noahfrost-devsecops)
 
 ---
 
-> “From policing to pipelines — I build with security in mind from the very first line of code.”
+> "From policing to pipelines — I build with security in mind from the very first line of code."
