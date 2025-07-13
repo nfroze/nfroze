@@ -68,7 +68,7 @@ Check out [Project 5](https://github.com/nfroze/Project-5-End-to-End-DevSecOps-T
 
 ## 📚 Certifications
 
-✅ **CompTIA Security+** (2024)
+✅ **CompTIA Security+** (2025)
 
 ### In Progress:
 - **AWS Cloud Practitioner**  
