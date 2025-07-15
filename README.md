@@ -6,9 +6,6 @@
 
 ## 🚀 What Drives Me
 
-Security is more than just a layer — it's a mindset.  
-I bring real-world discipline, technical curiosity, and a commitment to protecting systems just as I once protected people.
-
 I'm passionate about building and securing systems the right way — from CI/CD pipelines to cloud deployments — and I believe in shift-left security, automation, and continuous learning to stay ahead of modern threats.
 
 **These projects represent more than technical skills** — they're months of self-directed learning, built unpaid in my own time with no mentorship. Every bug fixed at 2am, every successful GuardDuty→Lambda→Splunk integration, every architecture decision was earned through pure persistence. I didn't just learn DevSecOps, I lived it.
