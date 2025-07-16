@@ -8,7 +8,7 @@
 
 I'm passionate about building and securing systems the right way — from CI/CD pipelines to cloud deployments — and I believe in shift-left security, automation, and continuous learning to stay ahead of modern threats.
 
-**These projects represent more than technical skills** — they're months of self-directed learning, built unpaid in my own time with no mentorship. Every bug fixed at 2am, every successful GuardDuty→Lambda→Splunk integration, every architecture decision was earned through pure persistence. I didn't just learn DevSecOps, I lived it.
+**These projects represent more than technical skills** — they're months of self-directed learning, built unpaid in my own time with no mentorship. Every bug fixed at 3am after 12-hour debugging sessions, every rebuilt infrastructure after Terraform state corruption, every successful integration after wrestling with Splunk parsing errors — all earned through pure persistence. From spiraling AWS costs to shipping GuardDuty logs, I pushed through every obstacle because I didn't just want to learn DevSecOps, I had to master it.
 
 This portfolio demonstrates the same grit, passion, and ownership I'll bring to your team. When I commit to something, I deliver — whether that's protecting the public as a Police Constable or securing cloud infrastructure as a DevSecOps engineer.
 
