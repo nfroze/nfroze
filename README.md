@@ -59,6 +59,16 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Full CI/CD automation with **GitHub Actions**
 - Implements security controls based on threat modeling from Project 4
 
+### 🎯 [Tombola Threat Modelling Exercise](https://github.com/nfroze/Tombola-Threat-Modeling-Exercise)
+
+- Identified privacy vulnerability on public winners page enabling social engineering attacks
+- Demonstrated attack chain from public data to account compromise
+- Mapped OSINT techniques used by criminals to target high-value winners
+- Focused on protecting elderly and vulnerable customers from targeted fraud
+- Provided phased mitigation strategy with immediate zero-cost improvements
+- Balanced security recommendations with business requirements
+- Created concise executive-ready documentation for non-technical stakeholders
+
 ---
 
 ## 🎯 Currently Seeking DevSecOps Opportunities
