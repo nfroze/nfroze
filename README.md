@@ -59,7 +59,16 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Full CI/CD automation with **GitHub Actions**
 - Implements security controls based on threat modeling from Project 4
 
-### 🎯 [Tombola Threat Modelling Exercise](https://github.com/nfroze/Tombola-Threat-Modeling-Exercise)
+### 💩 [Project 6: LinkedIn Shitpost Detector](https://github.com/nfroze/Project-6-LinkedIn-Shitpost-Detector)
+
+- Chrome extension that uses AI to roast LinkedIn posts in one click
+- Full-stack implementation: **Chrome Extension API** + **Express.js** backend on **Vercel**
+- Integrated **Claude 3.5 Sonnet** for savage post analysis and scoring
+- **The $5 Challenge**: Track API burn rate as users roast LinkedIn's finest
+- Clean error handling with fallback responses when posts break the parser
+- Shows ability to ship complete products from idea to deployment
+
+### 🎯 [Project 7: Tombola Threat Modeling Exercise](https://github.com/nfroze/Tombola-Threat-Modeling-Exercise)
 
 - Identified privacy vulnerability on public winners page enabling social engineering attacks
 - Demonstrated attack chain from public data to account compromise
