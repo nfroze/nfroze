@@ -16,37 +16,34 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 
 ## 🔐 DevSecOps Projects
 
-### 🛠️ [Project 1: CI/CD Pipeline Security](https://github.com/nfroze/Project-1-CI-CD-Pipeline-Security)
+### 🤖 [Project 8: Slack MCP Assistant](https://github.com/nfroze/Project-8-Slack-MCP-Assistant)
 
-- Built a secure pipeline integrating:
- - SAST scanning (**Semgrep**)
- - SCA scanning (**npm audit**)
- - Secrets scanning (**Gitleaks**)
-- Enforced fail-fast workflows to catch security issues early in development
+- Built an **MCP (Model Context Protocol)** server connecting Claude Desktop to Slack
+- Enables natural language queries: "What did I miss while I was on vacation?"
+- Fetches and summarizes Slack messages, filtering noise from important updates
+- **Tech stack**: Node.js, Slack Web API, Claude Desktop MCP integration
+- Use cases: vacation catch-up, executive summaries, team sentiment analysis
+- Demonstrates cutting-edge AI integration with enterprise tools
+- Open source implementation of Claude's newest protocol capabilities
 
-### 🐳 [Project 2: Image and Runtime Application Security](https://github.com/nfroze/Project-2-Image-and-Runtime-Application-Security)
+### 🎯 [Project 7: Gaming Platform Threat Modeling Exercise](https://github.com/nfroze/Project-7-Gaming-Platform-Threat-Modeling-Exercise)
 
-- Built and scanned Docker images using **Trivy**
-- Deployed secure containers to **Amazon ECS** with least privilege IAM roles
-- Used a **Load Balancer** to maintain a static IP for external access and scanning
-- Performed **DAST** using **OWASP ZAP** on the live ECS service
+- Identified privacy vulnerability on a major UK gaming platform during interview preparation
+- Demonstrated attack chain from public winner data to potential account compromise
+- Mapped OSINT techniques used by criminals to target high-value winners
+- Focused on protecting elderly and vulnerable customers from social engineering
+- Provided phased mitigation strategy with immediate zero-cost improvements
+- Balanced security recommendations with business requirements
+- Created concise executive-ready documentation for non-technical stakeholders
 
-### ☁️ [Project 3: Infrastructure as Code (IaC) Security](https://github.com/nfroze/Project-3-Infrastructure-as-Code-IaC-Security)
+### 🌐 [Project 6: Full Stack Chrome Extension with AI Integration](https://github.com/nfroze/Project-6-Full-Stack-Chrome-Extension-with-AI-Integration)
 
-- Used **Terraform** to provision secure AWS infrastructure (IAM, S3, EC2)
-- Integrated **Checkov** for automated misconfiguration detection
-- Automated terraform **init**, **plan**, and **apply** in a CI/CD pipeline using GitHub Actions
-- Enforced security gate before cloud resources are deployed
-
-### 🧠 [Project 4: Threat Modeling & Incident Response](https://github.com/nfroze/Project-4-Threat-Modeling-Incident-Response)
-
-- Simulates a full threat modeling workshop for a fictional enterprise-scale healthcare platform
-- Includes HLD and DFD diagrams to map architecture, data flows, and trust boundaries
-- Applies the STRIDE threat model to assess control gaps across system components
-- Maps attacker TTPs using the MITRE ATT&CK Framework
-- Uses the Cyber Kill Chain to break down the lifecycle of several simulated attacks
-- Conducts an inherent risk assessment to prioritize threats based on likelihood and impact
-- Simulates a NIST-aligned incident response plan based on one modeled attack scenario
+- Chrome extension providing AI-powered TLDR summaries and analysis of LinkedIn posts
+- Full-stack implementation: **Chrome Extension API** + **Express.js** backend on **Vercel**
+- Integrated **Claude 3.5 Sonnet** for intelligent post analysis and spam scoring
+- **The $5 Challenge**: Live API budget tracking as users analyse LinkedIn content
+- Clean error handling with fallback responses for edge cases
+- Shows ability to ship complete products from idea to deployment
 
 ### 📦 [Project 5: End-to-End DevSecOps Transformation](https://github.com/nfroze/Project-5-End-to-End-DevSecOps-Transformation)
 
@@ -59,40 +56,43 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Full CI/CD automation with **GitHub Actions**
 - Implements security controls based on threat modeling from Project 4
 
-### 🌐 [Project 6: Full Stack Chrome Extension with AI Integration](https://github.com/nfroze/Project-6-Full-Stack-Chrome-Extension-with-AI-Integration)
+### 🧠 [Project 4: Threat Modeling & Incident Response](https://github.com/nfroze/Project-4-Threat-Modeling-Incident-Response)
 
-- Chrome extension providing AI-powered TLDR summaries and analysis of LinkedIn posts
-- Full-stack implementation: **Chrome Extension API** + **Express.js** backend on **Vercel**
-- Integrated **Claude 3.5 Sonnet** for intelligent post analysis and spam scoring
-- **The $5 Challenge**: Live API budget tracking as users analyse LinkedIn content
-- Clean error handling with fallback responses for edge cases
-- Shows ability to ship complete products from idea to deployment
+- Simulates a full threat modeling workshop for a fictional enterprise-scale healthcare platform
+- Includes HLD and DFD diagrams to map architecture, data flows, and trust boundaries
+- Applies the STRIDE threat model to assess control gaps across system components
+- Maps attacker TTPs using the MITRE ATT&CK Framework
+- Uses the Cyber Kill Chain to break down the lifecycle of several simulated attacks
+- Conducts an inherent risk assessment to prioritize threats based on likelihood and impact
+- Simulates a NIST-aligned incident response plan based on one modeled attack scenario
 
-### 🎯 [Project 7: Gaming Platform Threat Modeling Exercise](https://github.com/nfroze/Project-7-Gaming-Platform-Threat-Modeling-Exercise)
+### ☁️ [Project 3: Infrastructure as Code (IaC) Security](https://github.com/nfroze/Project-3-Infrastructure-as-Code-IaC-Security)
 
-- Identified privacy vulnerability on a major UK gaming platform during interview preparation
-- Demonstrated attack chain from public winner data to potential account compromise
-- Mapped OSINT techniques used by criminals to target high-value winners
-- Focused on protecting elderly and vulnerable customers from social engineering
-- Provided phased mitigation strategy with immediate zero-cost improvements
-- Balanced security recommendations with business requirements
-- Created concise executive-ready documentation for non-technical stakeholders
+- Used **Terraform** to provision secure AWS infrastructure (IAM, S3, EC2)
+- Integrated **Checkov** for automated misconfiguration detection
+- Automated terraform **init**, **plan**, and **apply** in a CI/CD pipeline using GitHub Actions
+- Enforced security gate before cloud resources are deployed
 
-### 🤖 [Project 8: Slack MCP Assistant](https://github.com/nfroze/Project-8-Slack-MCP-Assistant)
+### 🐳 [Project 2: Image and Runtime Application Security](https://github.com/nfroze/Project-2-Image-and-Runtime-Application-Security)
 
-- Built an **MCP (Model Context Protocol)** server connecting Claude Desktop to Slack
-- Enables natural language queries: "What did I miss while I was on vacation?"
-- Fetches and summarizes Slack messages, filtering noise from important updates
-- **Tech stack**: Node.js, Slack Web API, Claude Desktop MCP integration
-- Use cases: vacation catch-up, executive summaries, team sentiment analysis
-- Demonstrates cutting-edge AI integration with enterprise tools
-- Open source implementation of Claude's newest protocol capabilities
+- Built and scanned Docker images using **Trivy**
+- Deployed secure containers to **Amazon ECS** with least privilege IAM roles
+- Used a **Load Balancer** to maintain a static IP for external access and scanning
+- Performed **DAST** using **OWASP ZAP** on the live ECS service
+
+### 🛠️ [Project 1: CI/CD Pipeline Security](https://github.com/nfroze/Project-1-CI-CD-Pipeline-Security)
+
+- Built a secure pipeline integrating:
+ - SAST scanning (**Semgrep**)
+ - SCA scanning (**npm audit**)
+ - Secrets scanning (**Gitleaks**)
+- Enforced fail-fast workflows to catch security issues early in development
 
 ---
 
 ## 🎯 Currently Seeking DevSecOps Opportunities
 
-Check out [Capstone Project](https://github.com/nfroze/Project-5-End-to-End-DevSecOps-Transformation) for my most comprehensive work showcasing production-ready security automation with real-world best practices.
+Check out [Project 5](https://github.com/nfroze/Project-5-End-to-End-DevSecOps-Transformation) for my most comprehensive work showcasing production-ready security automation with real-world best practices.
 
 ---
 
