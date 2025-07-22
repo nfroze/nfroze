@@ -59,7 +59,7 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Full CI/CD automation with **GitHub Actions**
 - Implements security controls based on threat modeling from Project 4
 
-### 💩 [Project 6: LinkedIn Shitpost Detector](https://github.com/nfroze/Project-6-LinkedIn-Shitpost-Detector)
+### 🌐 [Project 6: Full Stack Chrome Extension with AI Integration](https://github.com/nfroze/Project-6-Full-Stack-Chrome-Extension-with-AI-Integration)
 
 - Chrome extension that uses AI to roast LinkedIn posts in one click
 - Full-stack implementation: **Chrome Extension API** + **Express.js** backend on **Vercel**
