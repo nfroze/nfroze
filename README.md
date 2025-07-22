@@ -68,7 +68,7 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Clean error handling with fallback responses when posts break the parser
 - Shows ability to ship complete products from idea to deployment
 
-### 🎯 [Project 7: Tombola Threat Modeling Exercise](https://github.com/nfroze/Tombola-Threat-Modeling-Exercise)
+### 🎯 [Project 7: Tombola Threat Modeling Exercise](https://github.com/nfroze/Project-7-Tombola-Threat-Modeling-Exercise)
 
 - Identified privacy vulnerability on public winners page enabling social engineering attacks
 - Demonstrated attack chain from public data to account compromise
@@ -77,6 +77,16 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Provided phased mitigation strategy with immediate zero-cost improvements
 - Balanced security recommendations with business requirements
 - Created concise executive-ready documentation for non-technical stakeholders
+
+### 🤖 [Project 8: Slack MCP Assistant](https://github.com/nfroze/Project-8-Slack-MCP-Assistant)
+
+- Built an **MCP (Model Context Protocol)** server connecting Claude Desktop to Slack
+- Enables natural language queries: "What did I miss while I was on vacation?"
+- Fetches and summarizes Slack messages, filtering noise from important updates
+- **Tech stack**: Node.js, Slack Web API, Claude Desktop MCP integration
+- Use cases: vacation catch-up, executive summaries, team sentiment analysis
+- Demonstrates cutting-edge AI integration with enterprise tools
+- Open source implementation of Claude's newest protocol capabilities
 
 ---
 
