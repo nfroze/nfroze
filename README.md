@@ -68,12 +68,12 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Clean error handling with fallback responses for edge cases
 - Shows ability to ship complete products from idea to deployment
 
-### 🎯 [Project 7: Tombola Threat Modeling Exercise](https://github.com/nfroze/Project-7-Tombola-Threat-Modeling-Exercise)
+### 🎯 [Project 7: Gaming Platform Threat Modeling Exercise](https://github.com/nfroze/Project-7-Gaming-Platform-Threat-Modeling-Exercise)
 
-- Identified privacy vulnerability on public winners page enabling social engineering attacks
-- Demonstrated attack chain from public data to account compromise
+- Identified privacy vulnerability on a major UK gaming platform during interview preparation
+- Demonstrated attack chain from public winner data to potential account compromise
 - Mapped OSINT techniques used by criminals to target high-value winners
-- Focused on protecting elderly and vulnerable customers from targeted fraud
+- Focused on protecting elderly and vulnerable customers from social engineering
 - Provided phased mitigation strategy with immediate zero-cost improvements
 - Balanced security recommendations with business requirements
 - Created concise executive-ready documentation for non-technical stakeholders
