@@ -61,11 +61,11 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 
 ### 🌐 [Project 6: Full Stack Chrome Extension with AI Integration](https://github.com/nfroze/Project-6-Full-Stack-Chrome-Extension-with-AI-Integration)
 
-- Chrome extension that uses AI to roast LinkedIn posts in one click
+- Chrome extension providing AI-powered TLDR summaries and analysis of LinkedIn posts
 - Full-stack implementation: **Chrome Extension API** + **Express.js** backend on **Vercel**
-- Integrated **Claude 3.5 Sonnet** for savage post analysis and scoring
-- **The $5 Challenge**: Track API burn rate as users roast LinkedIn's finest
-- Clean error handling with fallback responses when posts break the parser
+- Integrated **Claude 3.5 Sonnet** for intelligent post analysis and spam scoring
+- **The $5 Challenge**: Live API budget tracking as users analyse LinkedIn content
+- Clean error handling with fallback responses for edge cases
 - Shows ability to ship complete products from idea to deployment
 
 ### 🎯 [Project 7: Tombola Threat Modeling Exercise](https://github.com/nfroze/Project-7-Tombola-Threat-Modeling-Exercise)
