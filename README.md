@@ -114,8 +114,6 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 
 ## 🎯 Currently Seeking DevSecOps Opportunities
 
-Check out [Project 5](https://github.com/nfroze/Project-5-End-to-End-DevSecOps-Transformation) for my most comprehensive work showcasing production-ready security automation with real-world best practices.
-
 ---
 
 ## 📚 Certifications
