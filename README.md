@@ -16,6 +16,16 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 
 ## 🔐 DevSecOps Projects
 
+### 🚀 [Project 9: GitOps with ArgoCD & Monitoring](https://github.com/nfroze/Project-9-GitOps-ArgoCD-Monitoring)
+
+- Implemented production-grade **GitOps** workflow with **ArgoCD** on **AWS EKS**
+- Deployed **Prometheus** and **Grafana** monitoring stack via Helm charts
+- Achieved full cluster observability with real-time metrics and dashboards
+- **Tech stack**: Terraform, AWS EKS, ArgoCD, Prometheus, Grafana, Helm
+- Troubleshot complex CRD deployment issues using ServerSideApply
+- Demonstrated real-world debugging skills when Prometheus initially failed to deploy
+- **Completed in ~1 hour for ~$1** - proving cloud learning doesn't need to be expensive
+
 ### 🤖 [Project 8: Slack MCP Assistant](https://github.com/nfroze/Project-8-Slack-MCP-Assistant)
 
 - Built an **MCP (Model Context Protocol)** server connecting Claude Desktop to Slack
