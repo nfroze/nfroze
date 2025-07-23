@@ -1,5 +1,7 @@
 # Hi, I'm Noah Frost
 
+**Building the future of AI-augmented security operations | 10 production systems in 3 months**
+
 **Former Police Constable turned DevSecOps Engineer**, combining a background in criminology and law with hands-on experience in cybersecurity, cloud infrastructure, and secure software delivery.
 
 ---
