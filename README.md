@@ -16,6 +16,16 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 
 ## 🔐 DevSecOps Projects
 
+### 🚨 [Project 10: MCP Security Incident Response System](https://github.com/nfroze/Project-10-MCP-Security-Incident-Response-System)
+
+- Built one of the **first MCP (Model Context Protocol)** implementations for security operations
+- Gives AI direct access to **AWS GuardDuty** for automated incident investigation
+- Transforms 362 security findings into executive reports in **30 seconds** (vs 4 hours manual)
+- Natural language queries: "Are we under attack?" → Complete analysis with recommendations
+- **Tech stack**: Node.js, AWS GuardDuty, Claude Desktop MCP integration
+- Demonstrates the future of AI-augmented Security Operations Centers
+- From detection to board-ready report in under a minute
+
 ### 🚀 [Project 9: GitOps with ArgoCD & Monitoring](https://github.com/nfroze/Project-9-GitOps-ArgoCD-Monitoring)
 
 - Implemented production-grade **GitOps** workflow with **ArgoCD** on **AWS EKS**
