@@ -1,6 +1,6 @@
 # Hi, I'm Noah Frost
 
-**Building the future of AI-augmented security operations | 10 production systems in 3 months**
+**Building the future of AI-augmented security operations | 11 production systems in 3 months**
 
 **Former Police Constable turned DevSecOps Engineer**, combining a background in criminology and law with hands-on experience in cybersecurity, cloud infrastructure, and secure software delivery.
 
@@ -17,6 +17,16 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 ---
 
 ## 🔐 DevSecOps Projects
+
+### 🔎 [Project 11: MCP Powered IaC Security Remediation](https://github.com/nfroze/Project-11-MCP-Powered-IaC-Security-Remediation)
+
+- Created **MCP server** that analyses Checkov findings and generates Terraform fixes
+- Transforms **4 hours of manual remediation into 30 seconds** of AI-powered analysis
+- Natural language queries: "Fix my Terraform security issues" → Complete remediated code
+- Integrates **GitHub Actions**, **Checkov**, and **Claude Desktop** for end-to-end automation
+- **Tech stack**: Node.js, GitHub API, Checkov, Claude Desktop MCP integration
+- Provides exact code fixes for 40+ security misconfigurations
+- Demonstrates practical AI application for Infrastructure as Code security
 
 ### 🚨 [Project 10: MCP Security Incident Response System](https://github.com/nfroze/Project-10-MCP-Security-Incident-Response-System)
 
