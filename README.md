@@ -1,6 +1,6 @@
 # Hi, I'm Noah Frost
 
-**Building the future of AI-augmented security operations | 11 production systems in 3 months**
+**Building the future of AI-augmented security operations | 12 production systems in 3 months**
 
 **Former Police Constable turned DevSecOps Engineer**, combining a background in criminology and law with hands-on experience in cybersecurity, cloud infrastructure, and secure software delivery.
 
@@ -17,6 +17,16 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 ---
 
 ## 🔐 DevSecOps Projects
+
+### 👑 [Project 12: MCP Meets K8s](https://github.com/nfroze/Project-12-MCP-Meets-K8s)
+
+- **World's first Kubernetes MCP integration** - Natural language cluster operations via Claude Desktop
+- Built production-grade DevSecOps platform with **AWS EKS**, **GitOps** via **ArgoCD**, and full observability
+- AI-powered troubleshooting: "What's broken in production?" → Instant analysis with remediation steps
+- Complete security scanning pipeline: **Checkov** (IaC), **Semgrep** (SAST), **Gitleaks** (secrets), **Trivy** (containers)
+- **Tech stack**: Terraform, Kubernetes, ArgoCD, Prometheus/Grafana, Node.js MCP server
+- Transforms hours of kubectl debugging into 5-second natural language queries
+- Pioneering the future of AI-augmented DevOps operations
 
 ### 🔎 [Project 11: MCP Powered IaC Security Remediation](https://github.com/nfroze/Project-11-MCP-Powered-IaC-Security-Remediation)
 
