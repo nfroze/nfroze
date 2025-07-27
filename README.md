@@ -142,10 +142,12 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 
 ### In Progress:
 - **AWS Cloud Practitioner**
+
 ---
 
 ## 📬 Let's Connect  
 🔗 [LinkedIn](https://www.linkedin.com/in/noahfrost-devsecops)
 
 ---
+
 > "From policing to pipelines — I build with security in mind from the very first line of code."
