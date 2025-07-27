@@ -141,10 +141,7 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 ✅ **CompTIA Security+** (2025)
 
 ### In Progress:
-- **AWS Cloud Practitioner**  
-- **Terraform Associate**  
-- **GitHub Actions Security**
-
+- **AWS Cloud Practitioner**
 ---
 
 ## 📬 Let's Connect  
