@@ -20,18 +20,18 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 
 ### 👑 [Project 12: MCP Meets K8s](https://github.com/nfroze/Project-12-MCP-Meets-K8s)
 
-- **World's first Kubernetes MCP integration** - Natural language cluster operations via Claude Desktop
+- **Pioneered one of the first Kubernetes MCP integrations** - Natural language cluster operations via Claude Desktop
 - Built production-grade DevSecOps platform with **AWS EKS**, **GitOps** via **ArgoCD**, and full observability
 - AI-powered troubleshooting: "What's broken in production?" → Instant analysis with remediation steps
 - Complete security scanning pipeline: **Checkov** (IaC), **Semgrep** (SAST), **Gitleaks** (secrets), **Trivy** (containers)
 - **Tech stack**: Terraform, Kubernetes, ArgoCD, Prometheus/Grafana, Node.js MCP server
-- Transforms hours of kubectl debugging into 5-second natural language queries
+- Natural language queries for Kubernetes operations
 - Pioneering the future of AI-augmented DevOps operations
 
 ### 🔎 [Project 11: MCP Powered IaC Security Remediation](https://github.com/nfroze/Project-11-MCP-Powered-IaC-Security-Remediation)
 
 - Created **MCP server** that analyses Checkov findings and generates Terraform fixes
-- Transforms **4 hours of manual remediation into 30 seconds** of AI-powered analysis
+- Provides AI-powered analysis and remediation code for infrastructure vulnerabilities
 - Natural language queries: "Fix my Terraform security issues" → Complete remediated code
 - Integrates **GitHub Actions**, **Checkov**, and **Claude Desktop** for end-to-end automation
 - **Tech stack**: Node.js, GitHub API, Checkov, Claude Desktop MCP integration
@@ -42,11 +42,11 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 
 - Built one of the **first MCP (Model Context Protocol)** implementations for security operations
 - Gives AI direct access to **AWS GuardDuty** for automated incident investigation
-- Transforms 362 security findings into executive reports in **30 seconds** (vs 4 hours manual)
+- Analyses hundreds of security findings and generates executive reports rapidly
 - Natural language queries: "Are we under attack?" → Complete analysis with recommendations
 - **Tech stack**: Node.js, AWS GuardDuty, Claude Desktop MCP integration
 - Demonstrates the future of AI-augmented Security Operations Centers
-- From detection to board-ready report in under a minute
+- Battle-tested against real SSH brute force and crypto mining attacks
 
 ### 🚀 [Project 9: GitOps with ArgoCD & Monitoring](https://github.com/nfroze/Project-9-GitOps-ArgoCD-Monitoring)
 
