@@ -28,7 +28,7 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Natural language queries for Kubernetes operations
 - Pioneering the future of AI-augmented DevOps operations
 
-### 🔎 [Project 11: MCP Powered IaC Security Remediation](https://github.com/nfroze/Project-11-MCP-Powered-IaC-Security-Remediation)
+### 🏗️ [Project 11: MCP Powered IaC Security Remediation](https://github.com/nfroze/Project-11-MCP-Powered-IaC-Security-Remediation)
 
 - Created **MCP server** that analyses Checkov findings and generates Terraform fixes
 - Provides AI-powered analysis and remediation code for infrastructure vulnerabilities
