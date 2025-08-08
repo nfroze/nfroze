@@ -18,6 +18,30 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 
 ## 🔐 DevSecOps Projects
 
+### 🌍 [Project 20: Multi-Cloud Security] (Up Next)
+
+### ⚖️ [Project 19: Policy as Code] (Up Next)
+
+### 💰 [Project 18: FinOps Platform] (Up Next)
+
+### 🏗️ [Project 17: Developer Platform] (Up Next)
+
+### 💻 [Project 16: Portfolio Pipeline](https://github.com/nfroze/Project-16-Portfolio-Pipeline)
+
+- Automated CI/CD pipeline with **GitHub Actions** for portfolio site deployment
+- Static website hosting on **AWS S3** with **CloudFront** CDN for global distribution
+- Infrastructure managed with **Terraform** - imported existing resources under IaC control
+- Git push triggers automatic deployment with cache invalidation in < 5 minutes
+- **Tech stack**: S3, CloudFront, Route 53, GitHub Actions, Terraform
+- Demonstrates real-world "manual first, then automate" infrastructure evolution
+- Complete DevOps transformation of simple website with zero-downtime migration
+
+### 🏰 [Project 15: SENTINEL] (Coming Soon)
+
+### 🔨 [Project 14: FORGE] (Coming Soon)
+
+### 🛡️ [Project 13: AEGIS](https://github.com/nfroze/Project-13-AEGIS) (Coming Soon)
+
 ### 👑 [Project 12: MCP Meets K8s](https://github.com/nfroze/Project-12-MCP-Meets-K8s)
 
 - **Pioneered one of the first Kubernetes MCP integrations** - Natural language cluster operations via Claude Desktop
