@@ -139,14 +139,16 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 ## 📚 Certifications
 
 ✅ **CompTIA Security+** (2025)
+✅ **AWS Certified Cloud Practitioner** (2025)
+✅ **HashiCorp Certified: Terraform Associate** (2025)
 
 ### In Progress:
-- **AWS Cloud Practitioner**
+- **AWS Certified Solutions Architect – Associate**
 
 ---
 
 ## 📬 Let's Connect  
-🔗 [LinkedIn](https://www.linkedin.com/in/noahfrost-devsecops)
+🔗 [LinkedIn](https://www.linkedin.com/in/nfroze/)
 
 ---
 
