@@ -48,7 +48,7 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Demonstrates the future of AI-augmented Security Operations Centers
 - Battle-tested against real SSH brute force and crypto mining attacks
 
-### 🚀 [Project 9: GitOps & Monitoring](https://github.com/nfroze/Project-9-GitOps-ArgoCD-Monitoring)
+### 🚀 [Project 9: GitOps Monitoring](https://github.com/nfroze/Project-9-GitOps-ArgoCD-Monitoring)
 
 - Implemented production-grade **GitOps** workflow with **ArgoCD** on **AWS EKS**
 - Deployed **Prometheus** and **Grafana** monitoring stack via Helm charts
