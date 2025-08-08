@@ -18,13 +18,13 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 
 ## 🔐 DevSecOps Projects
 
-### 🌍 [Project 20: Multi-Cloud Security] (Up Next)
+### 🌍 [Project 20: Multi-Cloud Security](https://github.com/nfroze/Project-20-Multi-Cloud-Security) (Up Next)
 
-### ⚖️ [Project 19: Policy as Code] (Up Next)
+### ⚖️ [Project 19: Policy as Code](https://github.com/nfroze/Project-19-Policy-as-Code) (Up Next)
 
-### 💰 [Project 18: FinOps Platform] (Up Next)
+### 💰 [Project 18: FinOps Platform](https://github.com/nfroze/Project-18-FinOps-Platform) (Up Next)
 
-### 🏗️ [Project 17: Developer Platform] (Up Next)
+### 🏗️ [Project 17: Developer Platform](https://github.com/nfroze/Project-17-Developer-Platform) (Up Next)
 
 ### 💻 [Project 16: Portfolio Pipeline](https://github.com/nfroze/Project-16-Portfolio-Pipeline)
 
@@ -36,11 +36,11 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Demonstrates real-world "manual first, then automate" infrastructure evolution
 - Complete DevOps transformation of simple website with zero-downtime migration
 
-### 🏰 [Project 15: SENTINEL] (Coming Soon)
+### 🏰 [Project 15: SENTINEL](https://github.com/nfroze/Project-15-SENTINEL) (Coming Soon)
 
-### 🔨 [Project 14: FORGE] (Coming Soon)
+### 🔨 [Project 14: FORGE](https://github.com/nfroze/Project-14-FORGE) (Coming Soon)
 
-### 🛡️ [Project 13: AEGIS](https://github.com/nfroze/Project-13-AEGIS) (Coming Soon)
+### 🛡️ [Project 13: AEGIS](https://github.com/nfroze/Project-13-AEGIS)(Coming Soon)
 
 ### 👑 [Project 12: MCP Meets K8s](https://github.com/nfroze/Project-12-MCP-Meets-K8s)
 
