@@ -98,7 +98,7 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Full CI/CD automation with **GitHub Actions**
 - Implements security controls based on threat modeling from Project 4
 
-### 🧠 [Project 4: Threat Modeling](https://github.com/nfroze/Project-4-Threat-Modeling-Incident-Response)
+### ⚠️ [Project 4: Threat Modeling](https://github.com/nfroze/Project-4-Threat-Modeling-Incident-Response)
 
 - Simulates a full threat modeling workshop for a fictional enterprise-scale healthcare platform
 - Includes HLD and DFD diagrams to map architecture, data flows, and trust boundaries
