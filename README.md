@@ -28,7 +28,7 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Natural language queries for Kubernetes operations
 - Pioneering the future of AI-augmented DevOps operations
 
-### 🚧 [Project 11: MCP Powered IaC Security Remediation](https://github.com/nfroze/Project-11-MCP-Powered-IaC-Security-Remediation)
+### 🚧 [Project 11: MCP IaC Security](https://github.com/nfroze/Project-11-MCP-Powered-IaC-Security-Remediation)
 
 - Created **MCP server** that analyses Checkov findings and generates Terraform fixes
 - Provides AI-powered analysis and remediation code for infrastructure vulnerabilities
@@ -38,7 +38,7 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Provides exact code fixes for 40+ security misconfigurations
 - Demonstrates practical AI application for Infrastructure as Code security
 
-### 🚨 [Project 10: MCP Security Incident Response System](https://github.com/nfroze/Project-10-MCP-Security-Incident-Response-System)
+### 🚨 [Project 10: MCP Security Ops](https://github.com/nfroze/Project-10-MCP-Security-Incident-Response-System)
 
 - Built one of the **first MCP (Model Context Protocol)** implementations for security operations
 - Gives AI direct access to **AWS GuardDuty** for automated incident investigation
@@ -48,7 +48,7 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Demonstrates the future of AI-augmented Security Operations Centers
 - Battle-tested against real SSH brute force and crypto mining attacks
 
-### 🚀 [Project 9: GitOps with ArgoCD & Monitoring](https://github.com/nfroze/Project-9-GitOps-ArgoCD-Monitoring)
+### 🚀 [Project 9: GitOps & Monitoring](https://github.com/nfroze/Project-9-GitOps-ArgoCD-Monitoring)
 
 - Implemented production-grade **GitOps** workflow with **ArgoCD** on **AWS EKS**
 - Deployed **Prometheus** and **Grafana** monitoring stack via Helm charts
@@ -68,7 +68,7 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Demonstrates cutting-edge AI integration with enterprise tools
 - Open source implementation of Claude's newest protocol capabilities
 
-### 🎯 [Project 7: Gaming Platform Threat Modeling Exercise](https://github.com/nfroze/Project-7-Gaming-Platform-Threat-Modeling-Exercise)
+### 🎯 [Project 7: Live Threat Modeling](https://github.com/nfroze/Project-7-Gaming-Platform-Threat-Modeling-Exercise)
 
 - Identified privacy vulnerability on a major UK gaming platform during interview preparation
 - Demonstrated attack chain from public winner data to potential account compromise
@@ -78,7 +78,7 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Balanced security recommendations with business requirements
 - Created concise executive-ready documentation for non-technical stakeholders
 
-### 🌐 [Project 6: Full Stack Chrome Extension with AI Integration](https://github.com/nfroze/Project-6-Full-Stack-Chrome-Extension-with-AI-Integration)
+### 🌐 [Project 6: AI Chrome Extension](https://github.com/nfroze/Project-6-Full-Stack-Chrome-Extension-with-AI-Integration)
 
 - Chrome extension providing AI-powered TLDR summaries and analysis of LinkedIn posts
 - Full-stack implementation: **Chrome Extension API** + **Express.js** backend on **Vercel**
@@ -87,7 +87,7 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Clean error handling with fallback responses for edge cases
 - Shows ability to ship complete products from idea to deployment
 
-### 📦 [Project 5: End-to-End DevSecOps Transformation](https://github.com/nfroze/Project-5-End-to-End-DevSecOps-Transformation)
+### 📦 [Project 5: DevSecOps Pipeline](https://github.com/nfroze/Project-5-End-to-End-DevSecOps-Transformation)
 
 - Complete DevSecOps pipeline for Node.js app deployed to **Amazon EKS**
 - Automated security scanning at every stage (SAST, DAST, SCA, IaC)
@@ -98,7 +98,7 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Full CI/CD automation with **GitHub Actions**
 - Implements security controls based on threat modeling from Project 4
 
-### 🧠 [Project 4: Threat Modeling & Incident Response](https://github.com/nfroze/Project-4-Threat-Modeling-Incident-Response)
+### 🧠 [Project 4: Threat Modeling](https://github.com/nfroze/Project-4-Threat-Modeling-Incident-Response)
 
 - Simulates a full threat modeling workshop for a fictional enterprise-scale healthcare platform
 - Includes HLD and DFD diagrams to map architecture, data flows, and trust boundaries
@@ -108,21 +108,21 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 - Conducts an inherent risk assessment to prioritize threats based on likelihood and impact
 - Simulates a NIST-aligned incident response plan based on one modeled attack scenario
 
-### ☁️ [Project 3: Infrastructure as Code (IaC) Security](https://github.com/nfroze/Project-3-Infrastructure-as-Code-IaC-Security)
+### ☁️ [Project 3: IaC Security](https://github.com/nfroze/Project-3-Infrastructure-as-Code-IaC-Security)
 
 - Used **Terraform** to provision secure AWS infrastructure (IAM, S3, EC2)
 - Integrated **Checkov** for automated misconfiguration detection
 - Automated terraform **init**, **plan**, and **apply** in a CI/CD pipeline using GitHub Actions
 - Enforced security gate before cloud resources are deployed
 
-### 🐳 [Project 2: Image and Runtime Application Security](https://github.com/nfroze/Project-2-Image-and-Runtime-Application-Security)
+### 🐳 [Project 2: Container Security](https://github.com/nfroze/Project-2-Image-and-Runtime-Application-Security)
 
 - Built and scanned Docker images using **Trivy**
 - Deployed secure containers to **Amazon ECS** with least privilege IAM roles
 - Used a **Load Balancer** to maintain a static IP for external access and scanning
 - Performed **DAST** using **OWASP ZAP** on the live ECS service
 
-### 🛠️ [Project 1: CI/CD Pipeline Security](https://github.com/nfroze/Project-1-CI-CD-Pipeline-Security)
+### 🛠️ [Project 1: Secure CI/CD](https://github.com/nfroze/Project-1-CI-CD-Pipeline-Security)
 
 - Built a secure pipeline integrating:
  - SAST scanning (**Semgrep**)
