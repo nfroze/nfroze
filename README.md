@@ -139,7 +139,9 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 ## 📚 Certifications
 
 ✅ **CompTIA Security+** (2025)
+  
 ✅ **AWS Certified Cloud Practitioner** (2025)
+  
 ✅ **HashiCorp Certified: Terraform Associate** (2025)
 
 ### In Progress:
