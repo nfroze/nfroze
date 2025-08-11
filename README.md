@@ -24,7 +24,15 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 
 ### 💰 [Project 18: FinOps Platform](https://github.com/nfroze/Project-18-FinOps-Platform) (Up Next)
 
-### 🏗️ [Project 17: Developer Platform](https://github.com/nfroze/Project-17-Developer-Platform) (Up Next)
+### 🏗️ [Project 17: AI Developer Platform](https://github.com/nfroze/Project-17-AI-Developer-Platform)
+
+- Built self-service Internal Developer Platform reducing AI model deployment from **2 weeks to 30 minutes**
+- Hybrid architecture: **AWS EKS** for complex orchestration, **ECS Fargate** for simple services (70% cheaper)
+- **GitOps** with **ArgoCD** managing **Helm** deployments of Backstage, MLflow
+- Real-time GPU cost tracking preventing budget overruns - saves £10-40K/month through intelligent resource management
+- **Tech stack**: Terraform, Kubernetes, ArgoCD, Backstage (Spotify), MLflow, Node.js
+- Simulated GPU workloads on standard instances for cost-effective demonstration
+- Demonstrates platform engineering, FinOps, and smart architectural decisions for AI infrastructure
 
 ### 💻 [Project 16: Portfolio Pipeline](https://github.com/nfroze/Project-16-Portfolio-Pipeline)
 
