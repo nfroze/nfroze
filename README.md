@@ -20,9 +20,25 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 
 ### 🌍 [Project 20: Multi-Cloud Security](https://github.com/nfroze/Project-20-Multi-Cloud-Security) (Up Next)
 
-### ⚖️ [Project 19: Policy as Code](https://github.com/nfroze/Project-19-Policy-as-Code) (Up Next)
+### ⚖️ [Project 19: AI Governance Framework](https://github.com/nfroze/Project-19-AI-Governance-Framework)
 
-### 💰 [Project 18: FinOps Platform](https://github.com/nfroze/Project-18-FinOps-Platform) (Up Next)
+- Built dual-layer AI governance framework blocking unauthorised GPU provisioning that could cost **£10K+/month**
+- **HCP Terraform Sentinel** policies prevent expensive GPU instances (p3.2xlarge at £3.06/hr) before provisioning
+- **OPA Gatekeeper** enforces ML model tracking with clear errors: "❌ ML MODEL DEPLOYMENT BLOCKED - Missing Labels"
+- 100% ML model compliance with mandatory versioning, team attribution, and registry requirements
+- **Tech stack**: HCP Terraform, Sentinel, AWS EKS, OPA Gatekeeper, GitOps with GitHub
+- EU AI Act ready with complete audit trails - reduces compliance reporting from 2 weeks to 2 hours
+- Demonstrated on t3.medium (£0.04/hr) - same policies would block production GPU instances
+
+### 💰 [Project 18: AI FinOps Platform](https://github.com/nfroze/Project-18-AI-FinOps-Platform)
+
+- Real-time Kubernetes cost optimisation platform catching AI anomalies in **<30 seconds** (not monthly bills)
+- **Apache Kafka** streaming (3 brokers, 23 partitions) processing millions of GPU metrics and API token events
+- Prevents £100K+ monthly overruns through instant detection of idle GPUs and runaway OpenAI API calls
+- Intelligent topic partitioning: `gpu-utilization-events` (10), `ai-api-costs` (10), `cost-anomalies` (3)
+- **Tech stack**: Strimzi Kafka, OpenCost, Prometheus, Grafana, AWS EKS, Terraform
+- Event-driven architecture vs traditional polling - processing cost events as they happen
+- Would achieve 50% GPU cost reduction and 40% API savings through real-time visibility
 
 ### 🏗️ [Project 17: AI Developer Platform](https://github.com/nfroze/Project-17-AI-Developer-Platform)
 
