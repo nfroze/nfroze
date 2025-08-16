@@ -18,7 +18,15 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 
 ## 🔐 DevSecOps Projects
 
-### 🌍 [Project 20: Multi-Cloud Security](https://github.com/nfroze/Project-20-Multi-Cloud-Security) (Up Next)
+### 🌍 [Project 20: Multi-Cloud Orchestration](https://github.com/nfroze/Project-20-CloudGuard-Multi-Cloud-Orchestration)
+
+- Built unified orchestration platform deploying infrastructure to **AWS, Azure, and GCP simultaneously in 12 minutes**
+- Single `git push` triggers parallel deployment across all 3 clouds (vs 3+ days manually)
+- **Ansible** automatically detects OS differences (RedHat vs Debian) and adapts nginx configuration without manual intervention
+- **Datadog EU** provides single pane of glass monitoring - that "3" indicator proves all clouds healthy
+- **Tech stack**: Terraform (multi-provider), Ansible (OS-adaptive), GitHub Actions (GitOps), Datadog (unified monitoring)
+- Zero configuration drift across clouds - 100% consistency enforced through Infrastructure as Code
+- Demonstrates real-world multi-cloud challenges: AWS shows IP-based hostname while Azure/GCP show proper names
 
 ### ⚖️ [Project 19: AI Governance Framework](https://github.com/nfroze/Project-19-AI-Governance-Framework)
 
