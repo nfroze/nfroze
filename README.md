@@ -1,6 +1,6 @@
 # Hi, I'm Noah Frost
 
-***👑 DevSecOps Engineer | I don't just build secure systems - I CONQUER them.**
+**👑 DevSecOps Engineer | I don't just build secure systems - I CONQUER them.**
 
 **Building the future of AI-augmented security operations | 17 production systems in 4 months**
 
