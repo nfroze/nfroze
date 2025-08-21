@@ -186,10 +186,3 @@
 - **AWS Certified Solutions Architect – Associate**
 
 ---
-
-## 📬 Let's Connect  
-🔗 [LinkedIn](https://www.linkedin.com/in/nfroze/)
-
----
-
-> "From policing to pipelines — I build with security in mind from the very first line of code."
