@@ -78,7 +78,7 @@ This portfolio demonstrates the same grit, passion, and ownership I'll bring to 
 
 ### 🛡️ [Project 13: AEGIS](https://github.com/nfroze/Project-13-AEGIS)(Coming Soon)
 
-### 👑 [Project 12: MCP Meets K8s](https://github.com/nfroze/Project-12-MCP-Meets-K8s)
+### ☸️ [Project 12: MCP Meets K8s](https://github.com/nfroze/Project-12-MCP-Meets-K8s)
 
 - **Pioneered one of the first Kubernetes MCP integrations** - Natural language cluster operations via Claude Desktop
 - Built production-grade DevSecOps platform with **AWS EKS**, **GitOps** via **ArgoCD**, and full observability
