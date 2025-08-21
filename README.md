@@ -1,4 +1,4 @@
-## 🔐 DevSecOps Projects
+## 🔒 DevSecOps Projects
 
 ### 🌍 [Project 20: Multi-Cloud Orchestration](https://github.com/nfroze/Project-20-CloudGuard-Multi-Cloud-Orchestration)
 
