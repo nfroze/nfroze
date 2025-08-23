@@ -50,11 +50,11 @@
 - Demonstrates real-world "manual first, then automate" infrastructure evolution
 - Complete DevOps transformation of simple website with zero-downtime migration
 
-### 🏰 [Project 15: SENTINEL](https://github.com/nfroze/Project-15-SENTINEL) (Coming Soon)
+### 📈 [Project 15: Full Observability Stack](https://github.com/nfroze/Project-15-SENTINEL) (Coming Soon)
 
-### 🔨 [Project 14: FORGE](https://github.com/nfroze/Project-14-FORGE) (Coming Soon)
+### 🛒 [Project 14: Serverless E-Commerce Platform](https://github.com/nfroze/Project-14-FORGE) (Coming Soon)
 
-### 🛡️ [Project 13: AEGIS](https://github.com/nfroze/Project-13-AEGIS)(Coming Soon)
+### 🏢 [Project 13: Enterprise CI/CD Migration Platform](https://github.com/nfroze/Project-13-AEGIS)(Coming Soon)
 
 ### ☸️ [Project 12: MCP Meets K8s](https://github.com/nfroze/Project-12-MCP-Meets-K8s)
 
