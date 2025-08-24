@@ -170,10 +170,6 @@
 
 ---
 
-## 🎯 Currently Seeking DevSecOps Opportunities
-
----
-
 ## 📚 Certifications
 
 ✅ **CompTIA Security+** (2025)
