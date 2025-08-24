@@ -50,11 +50,11 @@
 - Demonstrates real-world "manual first, then automate" infrastructure evolution
 - Complete DevOps transformation of simple website with zero-downtime migration
 
-### 📈 [Project 15: Centralised Logging and Monitoring Platform](https://github.com/nfroze/Project-15-Centralised-Logging-and-Monitoring-Platform) (Coming Soon)
+### 📈 [Project 15: Observability Stack](https://github.com/nfroze/Project-15-Observability-Stack) (Coming Soon)
 
-### 🛒 [Project 14: Event-Driven Serverless Architecture](https://github.com/nfroze/Project-14-Event-Driven-Serverless-Architecture) (Coming Soon)
+### 🛒 [Project 14: Serverless Architecture](https://github.com/nfroze/Project-14-Serverless-Architecture) (Coming Soon)
 
-### 🏢 [Project 13: CI/CD Tool Evaluation and Migration Project](https://github.com/nfroze/Project-13-CI-CD-Tool-Evaluation-and-Migration-Project) (Coming Soon)
+### 🏢 [Project 13: CI/CD Pipeline Comparison](https://github.com/nfroze/Project-13-CI-CD-Pipeline-Comparison) (Coming Soon)
 
 ### ☸️ [Project 12: MCP Meets K8s](https://github.com/nfroze/Project-12-MCP-Meets-K8s)
 
