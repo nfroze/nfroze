@@ -16,7 +16,7 @@ Internal Developer Platform using Backstage on hybrid AWS EKS/ECS architecture. 
 CI/CD pipeline with GitHub Actions for static site deployment. AWS S3 hosting with CloudFront CDN. Infrastructure managed with Terraform. Automated cache invalidation.
 
 ### [Project 15: Observability Stack](https://github.com/nfroze/Project-15-Observability-Stack)
-Elasticsearch cluster on Kubernetes with Logstash and Kibana. Fluentd DaemonSet for log collection. Index lifecycle management. Kibana dashboards.
+Elasticsearch cluster on Kubernetes with Logstash and Kibana. Fluentd DaemonSet for log collection. Prometheus and Grafana for metrics. Index lifecycle management.
 
 ### [Project 14: End-to-End 3-Tier Serverless Application](https://github.com/nfroze/Project-14-3-Tier-Serverless-Application)
 React frontend on S3/CloudFront. Lambda functions with API Gateway. DynamoDB tables. Multi-environment Terraform deployment.
