@@ -18,7 +18,7 @@ CI/CD pipeline with GitHub Actions for static site deployment. AWS S3 hosting wi
 ### [Project 15: Observability Stack](https://github.com/nfroze/Project-15-Observability-Stack)
 Elasticsearch cluster on Kubernetes with Logstash and Kibana. Fluentd DaemonSet for log collection. Index lifecycle management. Kibana dashboards.
 
-### [Project 14: Serverless Architecture](https://github.com/nfroze/Project-14-Serverless-Architecture)
+### [Project 14: 3-Tier Serverless Application](https://github.com/nfroze/Project-14-3-Tier-Serverless-Application)
 AWS Lambda functions with Step Functions orchestration. API Gateway endpoints. DynamoDB tables. EventBridge rules. Multi-environment Terraform deployment.
 
 ### [Project 13: CI/CD Pipeline Comparison](https://github.com/nfroze/Project-13-CI-CD-Pipeline-Comparison)
