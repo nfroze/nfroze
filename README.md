@@ -25,40 +25,40 @@ React frontend on S3/CloudFront. Lambda functions with API Gateway. DynamoDB tab
 Jenkins pipelines and GitLab CI workflows. Ansible infrastructure provisioning. SonarQube and pytest integration. PostgreSQL RDS. Migration documentation.
 
 ### [Project 12: MCP Meets K8s](https://github.com/nfroze/Project-12-MCP-Meets-K8s)
-Model Context Protocol server for Kubernetes operations. AWS EKS with ArgoCD GitOps. Prometheus and Grafana monitoring. Security scanning with Checkov, Semgrep, Gitleaks, Trivy.
+Model Context Protocol server for Kubernetes operations. AWS EKS with ArgoCD GitOps. Prometheus and Grafana monitoring. Security scanning with Checkov, Semgrep, Gitleaks, and Trivy.
 
 ### [Project 11: MCP IaC Security](https://github.com/nfroze/Project-11-MCP-Powered-IaC-Security-Remediation)
-MCP server analysing Checkov findings and generating Terraform fixes. GitHub Actions integration. Node.js implementation for Claude Desktop.
+MCP server analysing Checkov findings and generating Terraform fixes. GitHub Actions integration for security scanning. Node.js implementation for Claude Desktop.
 
 ### [Project 10: MCP Security Ops](https://github.com/nfroze/Project-10-MCP-Security-Incident-Response-System)
-Model Context Protocol implementation for security operations. AWS GuardDuty integration. Automated incident investigation. Node.js server for Claude Desktop.
+Model Context Protocol server for AWS GuardDuty integration. Automated security investigation and incident report generation for Claude Desktop.
 
 ### [Project 9: GitOps Monitoring](https://github.com/nfroze/Project-9-GitOps-ArgoCD-Monitoring)
-GitOps workflow with ArgoCD on AWS EKS. Prometheus and Grafana deployment via Helm. Cluster observability with metrics and dashboards. Terraform infrastructure.
+GitOps workflow with ArgoCD on AWS EKS. Prometheus and Grafana deployment via Helm. Automatic synchronisation from Git repository.
 
 ### [Project 8: Slack MCP Assistant](https://github.com/nfroze/Project-8-Slack-MCP-Assistant)
-MCP server connecting Claude Desktop to Slack. Message fetching and summarisation. Node.js implementation using Slack Web API.
+Model Context Protocol server connecting Claude Desktop to Slack. Retrieves and summarises workspace messages using Slack Web API.
 
 ### [Project 7: Live Threat Modeling](https://github.com/nfroze/Project-7-Gaming-Platform-Threat-Modeling-Exercise)
-Threat modeling exercise for gaming platform. Privacy vulnerability assessment. OSINT analysis. Mitigation strategies. Executive documentation.
+Security analysis of gaming platform's winner disclosure practices. Demonstrated social engineering attack vectors using OSINT techniques and proposed privacy controls.
 
 ### [Project 6: AI Chrome Extension](https://github.com/nfroze/Project-6-Full-Stack-Chrome-Extension-with-AI-Integration)
-Chrome extension for LinkedIn post analysis. Express.js backend on Vercel. Claude 3.5 Sonnet integration. API budget tracking.
+Chrome extension for LinkedIn post analysis using Claude AI. Provides TLDR summaries and satirical commentary with spam scoring.
 
 ### [Project 5: DevSecOps Pipeline](https://github.com/nfroze/Project-5-End-to-End-DevSecOps-Transformation)
-Security pipeline for Node.js application deployed to Amazon EKS. Semgrep, Trivy, Gitleaks, OWASP ZAP, Checkov scanning. GuardDuty and CloudWatch monitoring. Splunk SIEM integration.
+Node.js application deployed to Amazon EKS with automated security scanning throughout CI/CD. Terraform infrastructure with GuardDuty and Splunk SIEM integration.
 
 ### [Project 4: Threat Modeling](https://github.com/nfroze/Project-4-Threat-Modeling-Incident-Response)
-Threat modeling for healthcare platform. STRIDE framework application. MITRE ATT&CK mapping. Risk assessment. NIST-aligned incident response plan.
+Threat modeling for healthcare platform using STRIDE framework and MITRE ATT&CK mapping. Three attack scenarios analysed with risk assessments and incident response plans
 
 ### [Project 3: IaC Security](https://github.com/nfroze/Project-3-Infrastructure-as-Code-IaC-Security)
-Terraform AWS infrastructure provisioning. Checkov integration for misconfiguration detection. GitHub Actions automation.
+Terraform AWS infrastructure with Checkov security scanning. IAM groups configured with least privilege. CI/CD pipeline scans before deployment.
 
 ### [Project 2: Container Security](https://github.com/nfroze/Project-2-Image-and-Runtime-Application-Security)
-Docker image scanning with Trivy. Amazon ECS deployment. Load balancer configuration. OWASP ZAP dynamic testing.
+Docker image scanning with Trivy and deployment to Amazon ECS. OWASP ZAP dynamic testing against deployed application via Application Load Balancer.
 
 ### [Project 1: Secure CI/CD](https://github.com/nfroze/Project-1-CI-CD-Pipeline-Security)
-CI/CD pipeline with security scanning. Semgrep for SAST. NPM audit for dependencies. Gitleaks for secrets detection.
+CI/CD pipeline with security scanning for Node.js application. GitHub Actions workflow runs Semgrep, npm audit, and Gitleaks on every push.
 
 ## Certifications
 
