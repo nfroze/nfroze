@@ -1,6 +1,6 @@
 ## DevSecOps Projects
 
-### [Project 20: Multi-Cloud Orchestration](https://github.com/nfroze/Project-20-CloudGuard-Multi-Cloud-Orchestration)
+### [Project 20: Multi-Cloud Orchestration](https://github.com/nfroze/Project-20-Multi-Cloud-Orchestration)
 Parallel infrastructure deployment to AWS, Azure, and GCP using Terraform. OS-adaptive Ansible configuration. Datadog monitoring. GitHub Actions workflow.
 
 ### [Project 19: AI Governance Framework](https://github.com/nfroze/Project-19-AI-Governance-Framework)
