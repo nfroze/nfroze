@@ -57,7 +57,7 @@ Terraform AWS infrastructure with Checkov security scanning. IAM groups configur
 ### [Project 2: Container Security](https://github.com/nfroze/Project-2-Container-Security)
 Docker image scanning with Trivy and deployment to Amazon ECS. OWASP ZAP dynamic testing against deployed application via Application Load Balancer.
 
-### [Project 1: Secure CI/CD](hhttps://github.com/nfroze/Project-1-Secure-CI-CD)
+### [Project 1: Secure CI/CD](https://github.com/nfroze/Project-1-Secure-CI-CD)
 CI/CD pipeline with security scanning for Node.js application. GitHub Actions workflow runs Semgrep, npm audit, and Gitleaks on every push.
 
 ## Certifications
