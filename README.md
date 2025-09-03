@@ -22,7 +22,7 @@ Elasticsearch cluster on Kubernetes with Logstash and Kibana. Fluentd DaemonSet 
 React frontend on S3/CloudFront. Lambda functions with API Gateway. DynamoDB tables. Multi-environment Terraform deployment.
 
 ### [Project 13: CI/CD Pipeline Comparison](https://github.com/nfroze/Project-13-CI-CD-Pipeline-Comparison)
-Jenkins pipelines and GitLab CI workflows. Ansible infrastructure provisioning. SonarQube and pytest integration. PostgreSQL RDS. Migration documentation.
+Jenkins and GitLab CI pipeline implementations. Jenkins on EC2 deploying Python Flask app. GitLab.com deploying Node.js app. Terraform infrastructure provisioning.
 
 ### [Project 12: MCP Meets K8s](https://github.com/nfroze/Project-12-MCP-Meets-K8s)
 Model Context Protocol server for Kubernetes operations. AWS EKS with ArgoCD GitOps. Prometheus and Grafana monitoring. Security scanning with Checkov, Semgrep, Gitleaks, and Trivy.
