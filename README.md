@@ -18,8 +18,8 @@ CI/CD pipeline with GitHub Actions for static site deployment. AWS S3 hosting wi
 ### [Project 15: Observability Stack](https://github.com/nfroze/Project-15-Observability-Stack)
 Elasticsearch cluster on Kubernetes with Logstash and Kibana. Fluentd DaemonSet for log collection. Prometheus and Grafana for metrics. Index lifecycle management.
 
-### [Project 14: End-to-End 3-Tier Serverless Application](https://github.com/nfroze/Project-14-3-Tier-Serverless-Application)
-React frontend on S3/CloudFront. Lambda functions with API Gateway. DynamoDB tables. Multi-environment Terraform deployment.
+### [Project 14: 3-Tier Serverless Application](https://github.com/nfroze/Project-14-3-Tier-Serverless-Application)
+Full-stack serverless e-commerce application with React frontend on S3/CloudFront, Lambda functions via API Gateway, and DynamoDB database. Infrastructure as Code with Terraform.
 
 ### [Project 13: CI/CD Pipeline Comparison](https://github.com/nfroze/Project-13-CI-CD-Pipeline-Comparison)
 Jenkins and GitLab CI pipeline implementations. Jenkins on EC2 deploying Python Flask app. GitLab deploying Node.js app. Terraform infrastructure provisioning.
