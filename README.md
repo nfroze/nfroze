@@ -59,13 +59,3 @@ Docker image scanning with Trivy and deployment to Amazon ECS. OWASP ZAP dynamic
 
 ### [Project 1: Secure CI/CD](https://github.com/nfroze/Project-1-Secure-CI-CD)
 CI/CD pipeline with security scanning for Node.js application. GitHub Actions workflow runs Semgrep, npm audit, and Gitleaks on every push.
-
-## Certifications
-
-CompTIA Security+
-
-AWS Certified Cloud Practitioner
-
-HashiCorp Certified: Terraform Associate
-
-AWS Certified Solutions Architect – Associate (In Progress)
