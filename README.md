@@ -1,3 +1,6 @@
+### [Project 21: AI Data Pipeline](https://github.com/nfroze/Project-21-AI-Data-Pipeline)
+Sensitive data stored on Azure Blob. Python script downloads and sanitises data locally. Claude Desktop connects via MCP for secure AI analysis and reporting.
+
 ### [Project 20: Multi-Cloud Orchestration](https://github.com/nfroze/Project-20-Multi-Cloud-Orchestration)
 Infrastructure deployment to AWS, Azure, and GCP using Terraform. Ansible configuration. Datadog monitoring. GitHub Actions workflow.
 
