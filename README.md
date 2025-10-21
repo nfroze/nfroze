@@ -1,3 +1,22 @@
+## 👋 Hi, I’m Noah
+
+I’m a **career-switching Cloud and AI Engineer** based in **Newcastle, UK**, focused on automation, security, and responsible AI adoption.  
+
+Over the past eight months I’ve **researched, designed, and built 20 original projects from scratch** across **AWS, Azure, and GCP**, using **Terraform, Kubernetes, CI/CD pipelines**, and a range of modern **security and monitoring tools**.  
+
+I’ve used **large language models** as my research partner and mentor - not to do the work for me, but to accelerate learning and deepen understanding. Every project here was built to explore real-world engineering practices, from **cloud infrastructure** and **DevSecOps automation** to **AI governance** and **multi-cloud orchestration**.  
+
+These are all **learning projects**, built independently and continuously improved as I’ve grown. They represent not just technical skills, but my mindset — **structured, self-directed, and driven by curiosity**.  
+
+📍 **Location:** Newcastle, UK  
+🌐 **Portfolio:** [noahfrost.co.uk](https://noahfrost.co.uk)  
+💻 **LinkedIn:** [linkedin.com/in/noahfrost](https://linkedin.com/in/noahfrost)  
+📬 **Open to:** Collaboration, feedback, and early-career opportunities in **cloud, platform, or AI engineering**
+
+---
+
+### 🧠 Projects
+
 ### [Project 20: Multi-Cloud Orchestration](https://github.com/nfroze/Project-20-Multi-Cloud-Orchestration)
 Infrastructure deployment to AWS, Azure, and GCP using Terraform. Ansible configuration. Datadog monitoring. GitHub Actions workflow.
 
