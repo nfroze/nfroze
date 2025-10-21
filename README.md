@@ -10,7 +10,7 @@ These are all **learning projects**, built independently and continuously improv
 
 📍 **Location:** Newcastle, UK  
 🌐 **Portfolio:** [noahfrost.co.uk](https://noahfrost.co.uk)  
-💻 **LinkedIn:** [linkedin.com/in/noahfrost](https://linkedin.com/in/noahfrost)  
+💻 **LinkedIn:** [linkedin.com/in/noahfrost](https://www.linkedin.com/in/nfroze/)  
 📬 **Open to:** Collaboration, feedback, and early-career opportunities in **cloud, platform, or AI engineering**
 
 ---
