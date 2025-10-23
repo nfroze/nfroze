@@ -86,7 +86,7 @@ This isn't about replacing engineering thinking - it's about amplifying producti
 
 ## 🔗 Connect
 
-**LinkedIn:** [linkedin.com/in/noahfrost](https://linkedin.com/in/nfroze)  
+**LinkedIn:** [linkedin.com/in/nfroze](https://linkedin.com/in/nfroze)  
 **Location:** Newcastle upon Tyne, UK  
 **Status:** SC Eligible (British citizen, former Police Constable)  
 **Seeking:** Cloud Engineer | DevOps Engineer | Platform Engineer roles in the North East
