@@ -18,7 +18,7 @@ Positioning for the **North East AI Growth Zone** - £30 billion investment crea
 **Messaging & Streaming:** Apache Kafka | Strimzi  
 **ML/AI Tooling:** MLflow | Model Context Protocol (MCP)
 
-## 📊 Portfolio Highlights: 20 Production-Grade Projects
+## 📊 Featured Projects
 
 ### Multi-Cloud & Orchestration
 **[Project 20: Multi-Cloud Orchestration](https://github.com/nfroze/Project-20-Multi-Cloud-Orchestration)** - Infrastructure deployment across AWS, Azure, and GCP using Terraform. Ansible configuration management. Datadog monitoring integration.
@@ -80,7 +80,7 @@ All certifications earned through hands-on project work - passed first attempt w
 I've developed a systematic approach to infrastructure engineering using AI as a force multiplier:
 - **Strategic Direction:** I architect solutions, design systems, and solve problems
 - **AI Collaboration:** LLMs handle code generation, multi-source research, and documentation
-- **Outcome:** Accelerated learning cycles and production-quality delivery
+- **Outcome:** Accelerated learning cycles and quality delivery
 
 This isn't about replacing engineering thinking - it's about amplifying productivity by delegating tactical execution while maintaining complete strategic control.
 
@@ -99,6 +99,6 @@ This isn't about replacing engineering thinking - it's about amplifying producti
 
 ### 💼 About
 
-Former Police Constable who transitioned into cloud engineering through intensive self-directed learning. Over 8 months, I built 20 production-grade projects while documenting the journey publicly. Created a 1,000+ person professional network on LinkedIn with 500,000+ post impressions, helping engineers at all levels navigate career transitions and AI-assisted workflows.
+Former Police Constable who transitioned into cloud infrastructure development through intensive self-directed learning. Over 8 months, I built 20 cloud infrastructure projects while documenting the journey publicly. Created a 1,500+ person professional network on LinkedIn with 500,000+ post impressions, helping engineers at all levels navigate career transitions and AI-assisted workflows.
 
 Now positioned in the North East as the region transforms into Europe's AI infrastructure hub (£30B investment, 5,000+ new roles by 2028). Ready to contribute to companies building the next generation of cloud and AI infrastructure.
