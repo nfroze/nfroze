@@ -99,6 +99,6 @@ This isn't about replacing engineering thinking - it's about amplifying producti
 
 ### 💼 About
 
-Former Police Constable who transitioned into cloud infrastructure development through intensive self-directed learning. Over 8 months, I built 20 cloud infrastructure projects while documenting the journey publicly. Created a 1,500+ person professional network on LinkedIn with 500,000+ post impressions, helping engineers at all levels navigate career transitions and AI-assisted workflows.
+Former Police Constable who transitioned into cloud infrastructure development through intensive self-directed learning. Over 8 months, I built 20 cloud infrastructure projects while documenting the journey publicly. Created a 1,250+ person professional network on LinkedIn with 500,000+ post impressions, helping engineers at all levels navigate career transitions and AI-assisted workflows.
 
 Now positioned in the North East as the region transforms into Europe's AI infrastructure hub (£30B investment, 5,000+ new roles by 2028). Ready to contribute to companies building the next generation of cloud and AI infrastructure.
