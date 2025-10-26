@@ -4,7 +4,7 @@ Building cloud infrastructure at the intersection of DevOps and AI.
 
 ## 🎯 Current Focus
 
-Positioning for the **North East AI Growth Zone** - £30 billion investment creating Europe's largest AI infrastructure hub with OpenAI, NVIDIA, and major data center deployments launching 2025-2028 in Newcastle upon Tyne.
+Positioning for the **North East AI Growth Zone** - £30 billion investment creating Europe's largest AI infrastructure hub with OpenAI, NVIDIA, and major data centre deployments launching 2025-2028 in Newcastle upon Tyne.
 
 ## 🛠️ Technical Stack
 
@@ -33,18 +33,18 @@ Positioning for the **North East AI Growth Zone** - £30 billion investment crea
 ### Model Context Protocol (MCP) Implementations
 **[Project 12: MCP Meets K8s](https://github.com/nfroze/Project-12-MCP-Meets-K8s)** - MCP server for Kubernetes operations on AWS EKS with ArgoCD GitOps and comprehensive security scanning.
 
-**[Project 11: MCP IaC Security](https://github.com/nfroze/Project-11-MCP-IaC-Security)** - MCP server analyzing Checkov findings and generating Terraform fixes with GitHub Actions integration.
+**[Project 11: MCP IaC Security](https://github.com/nfroze/Project-11-MCP-IaC-Security)** - MCP server analysing Checkov findings and generating Terraform fixes with GitHub Actions integration.
 
 **[Project 10: MCP Security Ops](https://github.com/nfroze/Project-10-MCP-Security-Ops)** - AWS GuardDuty incident response automation with EventBridge-triggered Lambda and Slack integration.
 
 **[Project 8: Slack MCP Assistant](https://github.com/nfroze/Project-8-Slack-MCP-Assistant)** - MCP server connecting Claude Desktop to Slack for message retrieval and analysis.
 
 ### DevSecOps & Security
-**[Project 7: Live Threat Modeling](https://github.com/nfroze/Project-7-Live-Threat-Modeling)** - Real-world security analysis demonstrating OSINT techniques and privacy controls for gaming platform.
+**[Project 7: Live Threat Modelling](https://github.com/nfroze/Project-7-Live-Threat-Modeling)** - Real-world security analysis demonstrating OSINT techniques and privacy controls for gaming platform.
 
 **[Project 5: DevSecOps Pipeline](https://github.com/nfroze/Project-5-DevSecOps-Pipeline)** - Node.js deployment to Amazon EKS with automated security scanning, GuardDuty, and Splunk SIEM.
 
-**[Project 4: Threat Modeling](https://github.com/nfroze/Project-4-Threat-Modeling)** - Healthcare platform analysis using STRIDE framework and MITRE ATT&CK mapping with incident response plans.
+**[Project 4: Threat Modelling](https://github.com/nfroze/Project-4-Threat-Modeling)** - Healthcare platform analysis using STRIDE framework and MITRE ATT&CK mapping with incident response plans.
 
 **[Project 3: IaC Security](https://github.com/nfroze/Project-3-IaC-Security)** - Terraform AWS infrastructure with Checkov scanning and least privilege IAM configurations.
 
@@ -82,7 +82,7 @@ I've developed a systematic approach to infrastructure engineering using AI as a
 - **AI Collaboration:** LLMs handle code generation, multi-source research, and documentation
 - **Outcome:** Accelerated learning cycles and quality delivery
 
-This isn't about replacing engineering thinking - it's about amplifying productivity by delegating tactical execution while maintaining complete strategic control.
+This isn't about replacing engineering thinking - it's about amplifying productivity by delegating tactical execution whilst maintaining complete strategic control.
 
 ## 🔗 Connect
 
@@ -99,6 +99,6 @@ This isn't about replacing engineering thinking - it's about amplifying producti
 
 ### 💼 About
 
-Former Police Constable who transitioned into cloud infrastructure development through intensive self-directed learning. Over 8 months, I built 20 cloud infrastructure projects while documenting the journey publicly. Created a 1,250+ person professional network on LinkedIn with 500,000+ post impressions, helping engineers at all levels navigate career transitions and AI-assisted workflows.
+Former Police Constable who transitioned into cloud infrastructure development through intensive self-directed learning. Over 8 months, I built 20 cloud infrastructure projects whilst documenting the journey publicly. Created a 1,250+ person professional network on LinkedIn with 500,000+ post impressions, helping engineers at all levels navigate career transitions and AI-assisted workflows.
 
 Now positioned in the North East as the region transforms into Europe's AI infrastructure hub (£30B investment, 5,000+ new roles by 2028). Ready to contribute to companies building the next generation of cloud and AI infrastructure.
