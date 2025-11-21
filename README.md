@@ -1,10 +1,25 @@
-# Noah Frost | Cloud Infrastructure Developer
+# Noah Frost | AI-Native Infrastructure Engineer
 
-Building cloud infrastructure at the intersection of DevOps and AI.
+I don't just use AI tools. I've built a methodology for partnering with AI that accelerates everything I do.
 
-## 🎯 Current Focus
+## 🎯 The Approach
 
-Positioning for the **North East AI Growth Zone** - £30 billion investment creating Europe's largest AI infrastructure hub with OpenAI, NVIDIA, and major data centre deployments launching 2025-2028 in Newcastle upon Tyne.
+Over 8 months, I built 20 cloud infrastructure projects using a systematic methodology I developed myself:
+
+**How it works:**
+- I orchestrate, AI executes
+- Strategic direction (systems design, problem decomposition, architecture) stays with me
+- Tactical execution (code generation, research synthesis, documentation) is delegated to AI
+- Every project starts with extensive research and thousands of "why" questions
+- Theory → hands-on build → checkpoint → next challenge
+- Everything documented publicly for accountability
+
+**Why it matters:**
+This isn't about using AI to write code faster. It's about building a symbiotic workflow that compounds learning velocity and execution speed. I passed three certifications purely from hands-on project work—no exam cramming. The methodology works.
+
+## 🛡️ Foundation
+
+DevSecOps bootcamp graduate—6 weeks of security-first training from a Global CISO before building anything. Shift-left thinking from day one.
 
 ## 🛠️ Technical Stack
 
@@ -15,90 +30,71 @@ Positioning for the **North East AI Growth Zone** - £30 billion investment crea
 **Observability:** Prometheus | Grafana | Elasticsearch | Kibana | Datadog  
 **Security & Compliance:** Checkov | Trivy | Semgrep | Gitleaks | OPA Gatekeeper  
 **Languages:** Python | Node.js | Bash | HCL  
-**Messaging & Streaming:** Apache Kafka | Strimzi  
 **ML/AI Tooling:** MLflow | Model Context Protocol (MCP)
 
-## 📊 Featured Projects
+## 📊 Projects
+
+The projects are evidence the methodology works. Each was designed, architected, and executed independently—no external templates.
 
 ### Multi-Cloud & Orchestration
-**[Project 20: Multi-Cloud Orchestration](https://github.com/nfroze/Project-20-Multi-Cloud-Orchestration)** - Infrastructure deployment across AWS, Azure, and GCP using Terraform. Ansible configuration management. Datadog monitoring integration.
+**[Project 20: Multi-Cloud Orchestration](https://github.com/nfroze/Project-20-Multi-Cloud-Orchestration)** - AWS, Azure, GCP with Terraform
 
 ### AI/ML Infrastructure
-**[Project 19: AI Governance Framework](https://github.com/nfroze/Project-19-AI-Governance-Framework)** - Policy enforcement with HCP Terraform Sentinel and OPA Gatekeeper on AWS EKS. ML model tracking admission control.
-
-**[Project 18: AI FinOps Platform](https://github.com/nfroze/Project-18-AI-FinOps-Platform)** - Apache Kafka streaming on Kubernetes using Strimzi operator. OpenCost + Prometheus + Grafana for GPU and API cost tracking.
-
-**[Project 17: AI Developer Platform](https://github.com/nfroze/Project-17-AI-Developer-Platform)** - Internal Developer Platform using Backstage on hybrid AWS EKS/ECS. MLflow integration with ArgoCD GitOps.
+**[Project 19: AI Governance Framework](https://github.com/nfroze/Project-19-AI-Governance-Framework)** - Policy enforcement with OPA Gatekeeper  
+**[Project 18: AI FinOps Platform](https://github.com/nfroze/Project-18-AI-FinOps-Platform)** - Apache Kafka  
+**[Project 17: AI Developer Platform](https://github.com/nfroze/Project-17-AI-Developer-Platform)** - Backstage IDP with MLflow
 
 ### Model Context Protocol (MCP) Implementations
-**[Project 12: MCP Meets K8s](https://github.com/nfroze/Project-12-MCP-Meets-K8s)** - MCP server for Kubernetes operations on AWS EKS with ArgoCD GitOps and comprehensive security scanning.
-
-**[Project 11: MCP IaC Security](https://github.com/nfroze/Project-11-MCP-IaC-Security)** - MCP server analysing Checkov findings and generating Terraform fixes with GitHub Actions integration.
-
-**[Project 10: MCP Security Ops](https://github.com/nfroze/Project-10-MCP-Security-Ops)** - AWS GuardDuty incident response automation with EventBridge-triggered Lambda and Slack integration.
-
-**[Project 8: Slack MCP Assistant](https://github.com/nfroze/Project-8-Slack-MCP-Assistant)** - MCP server connecting Claude Desktop to Slack for message retrieval and analysis.
+**[Project 12: MCP Meets K8s](https://github.com/nfroze/Project-12-MCP-Meets-K8s)** - MCP server for Kubernetes  
+**[Project 11: MCP IaC Security](https://github.com/nfroze/Project-11-MCP-IaC-Security)** - MCP server for IaC analysis  
+**[Project 10: MCP Security Ops](https://github.com/nfroze/Project-10-MCP-Security-Ops)** - AWS GuardDuty integration  
+**[Project 8: Slack MCP Assistant](https://github.com/nfroze/Project-8-Slack-MCP-Assistant)** - MCP server for Slack
 
 ### DevSecOps & Security
-**[Project 7: Live Threat Modelling](https://github.com/nfroze/Project-7-Live-Threat-Modeling)** - Real-world security analysis demonstrating OSINT techniques and privacy controls for gaming platform.
-
-**[Project 5: DevSecOps Pipeline](https://github.com/nfroze/Project-5-DevSecOps-Pipeline)** - Node.js deployment to Amazon EKS with automated security scanning, GuardDuty, and Splunk SIEM.
-
-**[Project 4: Threat Modelling](https://github.com/nfroze/Project-4-Threat-Modeling)** - Healthcare platform analysis using STRIDE framework and MITRE ATT&CK mapping with incident response plans.
-
-**[Project 3: IaC Security](https://github.com/nfroze/Project-3-IaC-Security)** - Terraform AWS infrastructure with Checkov scanning and least privilege IAM configurations.
+**[Project 7: Live Threat Modeling](https://github.com/nfroze/Project-7-Live-Threat-Modeling)**  
+**[Project 5: DevSecOps Pipeline](https://github.com/nfroze/Project-5-DevSecOps-Pipeline)** - Node.js with shift-left security  
+**[Project 4: Threat Modeling](https://github.com/nfroze/Project-4-Threat-Modeling)** - Healthcare platform analysis  
+**[Project 3: IaC Security](https://github.com/nfroze/Project-3-IaC-Security)** - Terraform validation
 
 ### Observability & Monitoring
-**[Project 15: Observability Stack](https://github.com/nfroze/Project-15-Observability-Stack)** - ELK Stack on Kubernetes with Fluentd DaemonSet. Prometheus and Grafana integration across multiple environments.
-
-**[Project 9: GitOps Monitoring](https://github.com/nfroze/Project-9-GitOps-ArgoCD-Monitoring)** - ArgoCD on AWS EKS with Prometheus and Grafana deployment via Helm.
+**[Project 15: Observability Stack](https://github.com/nfroze/Project-15-Observability-Stack)** - ELK Stack on AWS  
+**[Project 9: GitOps Monitoring](https://github.com/nfroze/Project-9-GitOps-ArgoCD-Monitoring)** - ArgoCD monitoring
 
 ### Serverless & Full-Stack
-**[Project 14: 3-Tier Serverless Application](https://github.com/nfroze/Project-14-3-Tier-Serverless-Application)** - E-commerce platform with React on S3/CloudFront, Lambda via API Gateway, DynamoDB backend. Full Terraform IaC.
+**[Project 14: 3-Tier Serverless Application](https://github.com/nfroze/Project-14-3-Tier-Serverless-Application)**
 
 ### CI/CD Pipelines
-**[Project 16: Portfolio Pipeline](https://github.com/nfroze/Project-16-Portfolio-Pipeline)** - GitHub Actions pipeline for static site deployment to S3 with CloudFront CDN and automated cache invalidation.
-
-**[Project 13: CI/CD Pipeline Comparison](https://github.com/nfroze/Project-13-CI-CD-Pipeline-Comparison)** - Jenkins and GitLab CI implementations deploying Flask and Node.js applications.
-
-**[Project 1: Secure CI/CD](https://github.com/nfroze/Project-1-Secure-CI-CD)** - GitHub Actions workflow with Semgrep, npm audit, and Gitleaks scanning.
+**[Project 16: Portfolio Pipeline](https://github.com/nfroze/Project-16-Portfolio-Pipeline)** - GitHub Actions  
+**[Project 13: CI/CD Pipeline Comparison](https://github.com/nfroze/Project-13-CI-CD-Pipeline-Comparison)**  
+**[Project 1: Secure CI/CD](https://github.com/nfroze/Project-1-Secure-CI-CD)** - GitHub Actions workflow
 
 ### Container Security
-**[Project 2: Container Security](https://github.com/nfroze/Project-2-Container-Security)** - Docker image scanning with Trivy, Amazon ECS deployment, and OWASP ZAP dynamic testing.
+**[Project 2: Container Security](https://github.com/nfroze/Project-2-Container-Security)** - Docker image scanning
 
 ### Extensions & Tools
-**[Project 6: AI Chrome Extension](https://github.com/nfroze/Project-6-AI-Chrome-Extension)** - Chrome extension for LinkedIn post analysis using Claude AI with TLDR summaries and spam scoring.
+**[Project 6: AI Chrome Extension](https://github.com/nfroze/Project-6-AI-Chrome-Extension)**
 
 ## 🎓 Certifications
 
 AWS Certified Cloud Practitioner | CompTIA Security+ | HashiCorp Terraform Associate
 
-All certifications earned through hands-on project work - passed first attempt without traditional exam preparation.
+All passed first attempt through hands-on project work. The methodology eliminates the need for traditional exam preparation.
 
-## 📈 Development Methodology
+## 📈 Community Response
 
-I've developed a systematic approach to infrastructure engineering using AI as a force multiplier:
-- **Strategic Direction:** I architect solutions, design systems, and solve problems
-- **AI Collaboration:** LLMs handle code generation, multi-source research, and documentation
-- **Outcome:** Accelerated learning cycles and quality delivery
-
-This isn't about replacing engineering thinking - it's about amplifying productivity by delegating tactical execution whilst maintaining complete strategic control.
+- **1,500+** LinkedIn followers built through consistent, documented execution
+- **500,000+** post impressions
+- **85+** GitHub followers acquired organically in 8 months
+- Zero engagement farming—growth driven by approach that resonated
 
 ## 🔗 Connect
 
 **LinkedIn:** [linkedin.com/in/nfroze](https://linkedin.com/in/nfroze)  
-**Location:** Newcastle upon Tyne, UK  
+**Portfolio:** [noahfrost.co.uk](https://noahfrost.co.uk)  
+**Location:** Northumberland, UK  
 **Status:** SC Eligible (British citizen, former Police Constable)  
-**Seeking:** Cloud Engineer | DevOps Engineer | Platform Engineer roles in the North East
+**Seeking:** AI Infrastructure | Cloud Engineer | DevOps Engineer | Platform Engineer roles
 
 ---
 
-### 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nfroze&show_icons=true&theme=dark)
-
-### 💼 About
-
-Former Police Constable who transitioned into cloud infrastructure development through intensive self-directed learning. Over 8 months, I built 20 cloud infrastructure projects whilst documenting the journey publicly. Created a 1,250+ person professional network on LinkedIn with 500,000+ post impressions, helping engineers at all levels navigate career transitions and AI-assisted workflows.
-
-Now positioned in the North East as the region transforms into Europe's AI infrastructure hub (£30B investment, 5,000+ new roles by 2028). Ready to contribute to companies building the next generation of cloud and AI infrastructure.
