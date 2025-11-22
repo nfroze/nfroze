@@ -87,13 +87,18 @@ All passed first attempt through hands-on project work. The methodology eliminat
 - **85+** GitHub followers acquired organically in 8 months
 - Zero engagement farming—growth driven by approach that resonated
 
-## 🔗 Connect
+## 🌍 Seeking Opportunities
+
+I'm looking for opportunities in environments that value merit, capability, and innovation. The UAE's vision for technological excellence through global talent acquisition aligns perfectly with my approach to engineering.
+
+After 8 months of building exactly what the market claims to need, I'm ready to contribute to a region that evaluates engineers based on what they can deliver, not demographics or traditional credentials.
+
+## 📗 Connect
 
 **LinkedIn:** [linkedin.com/in/nfroze](https://linkedin.com/in/nfroze)  
 **Portfolio:** [noahfrost.co.uk](https://noahfrost.co.uk)  
-**Location:** Northumberland, UK  
-**Status:** SC Eligible (British citizen, former Police Constable)  
-**Seeking:** AI Infrastructure | Cloud Engineer | DevOps Engineer | Platform Engineer roles
+**Status:** British citizen | Open to UAE relocation  
+**Seeking:** AI Infrastructure | Cloud Engineer | DevOps Engineer | Platform Engineer roles in the UAE
 
 ---
 
