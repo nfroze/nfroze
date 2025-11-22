@@ -97,7 +97,7 @@ After 8 months of building exactly what the market claims to need, I'm ready to 
 
 **LinkedIn:** [linkedin.com/in/nfroze](https://linkedin.com/in/nfroze)  
 **Portfolio:** [noahfrost.co.uk](https://noahfrost.co.uk)  
-**Status:** British citizen | Open to UAE relocation 🇦🇪
+**Status:** British citizen | Open to UAE relocation 🇦🇪  
 **Seeking:** AI Infrastructure | Cloud Engineer | DevOps Engineer | Platform Engineer roles in the UAE
 
 ---
