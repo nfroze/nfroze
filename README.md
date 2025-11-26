@@ -116,6 +116,12 @@ Docker image scanning
 
 All achieved through hands-on project work.
 
+## What Drives Me
+
+My biggest fear is being wrong and not knowing it.
+
+That's what's behind everything I build — research over assumption, evidence over ego, accountability over pride. Build fast. Fail faster. Admit defeat before anyone has to tell me.
+
 ## Connect
 
 **LinkedIn:** [linkedin.com/in/nfroze](https://linkedin.com/in/nfroze)  
