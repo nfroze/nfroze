@@ -1,25 +1,30 @@
 # Noah Frost | AI Infrastructure Engineer
 
-I build AI infrastructure from the ground up.
+In a market where technology changes faster than people can specialise, I don't specialise — I adapt.
 
-## The Approach
+## The Point
 
-Over 8 months, I designed and executed 20 cloud infrastructure projects using a systematic methodology I developed independently:
+I built 20 cloud infrastructure projects over 8 months. No mentor. No team. No templates. Designed my own curriculum, architected everything from scratch.
 
-**How it works:**
-- Research extensively until full contextual understanding is achieved
-- Design architecture from first principles
-- Build iteratively with checkpoint-based validation
-- Document everything publicly for accountability
+But the projects aren't the point. They're proof of something more valuable:
 
-**AI as force multiplier:**
-- Strategic direction stays with me: architecture, problem decomposition, quality decisions
-- Tactical execution delegated to AI: code generation, research synthesis, documentation
-- Result: compressed learning cycles and rapid delivery in unfamiliar domains
+**I can learn anything, fast, without hand-holding.**
 
-## Foundation
+Drop me into an unfamiliar domain and I'll figure it out. Terraform will change. Kubernetes will evolve. New tools will emerge. That's not a threat — that's where I thrive. The technical skills are evidence. The adaptability is the product.
 
-DevSecOps bootcamp graduate—6 weeks of security-first training from a Global CISO before building anything. Shift-left thinking from day one.
+## The Method
+
+AI is only as powerful as the person wielding it.
+
+- **Strategic direction stays with me:** architecture, problem decomposition, quality decisions
+- **Tactical execution gets delegated:** code generation, research synthesis, documentation
+- **The result:** compressed learning cycles and rapid delivery in unfamiliar domains
+
+Most engineers treat AI like a faster Stack Overflow. I treat it as a cognitive partner. The difference shows in the output.
+
+## The Foundation
+
+DevSecOps bootcamp graduate — 6 weeks of security-first training from a Global CISO before building anything. Shift-left thinking from day one.
 
 ## Technical Stack
 
@@ -34,7 +39,7 @@ DevSecOps bootcamp graduate—6 weeks of security-first training from a Global C
 
 ## Projects
 
-Each project was designed, architected, and executed independently—no external templates.
+Each project was designed, architected, and executed independently — no external templates.
 
 ### Multi-Cloud & Orchestration
 **[Project 20: Multi-Cloud Orchestration](https://github.com/nfroze/Project-20-Multi-Cloud-Orchestration)**  
@@ -120,4 +125,4 @@ All achieved through hands-on project work.
 
 ---
 
-*Looking for AI infrastructure, cloud engineering, or DevOps roles in the UAE.*
+*The projects show what I can build. How I built them shows I can become whatever you need.*
