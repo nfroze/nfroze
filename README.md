@@ -1,134 +1,107 @@
-# Noah Frost | AI Infrastructure Engineer
+# Hi, I'm Noah 👋
 
-In a market where technology changes faster than people can specialise, I don't specialise — I adapt.
+**DevSecOps Engineer** building secure cloud infrastructure.
 
-## The Point
+Former Police Constable → DevSecOps Engineer. I bring incident response instincts and security-first thinking to cloud engineering.
 
-I built 20 cloud infrastructure projects over 8 months. No mentor. No team. No templates. Designed my own curriculum, architected everything from scratch.
+**How I learned:** 8 months of AI-accelerated self-directed learning. I used LLMs (Claude, ChatGPT) to understand documentation, debug configurations, and validate architectural decisions — then built and tested everything hands-on. 20 projects later, I'm not just prompting AI; I'm building with it.
 
-But the projects aren't the point. They're proof of something more valuable:
+[![Portfolio](https://img.shields.io/badge/Portfolio-noahfrost.co.uk-blue?style=flat-square)](https://noahfrost.co.uk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nfroze-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/nfroze)
 
-**I can learn anything, fast, without hand-holding.**
+---
 
-Drop me into an unfamiliar domain and I'll figure it out. Terraform will change. Kubernetes will evolve. New tools will emerge. That's not a threat — that's where I thrive. The technical skills are evidence. The adaptability is the product.
+## 🛠 Tech Stack
 
-## The Method
+**Cloud:** AWS · Azure · GCP
 
-AI is only as powerful as the person wielding it.
+**IaC:** Terraform · Ansible
 
-- **Strategic direction stays with me:** architecture, problem decomposition, quality decisions
-- **Tactical execution gets delegated:** code generation, research synthesis, documentation
-- **The result:** compressed learning cycles and rapid delivery in unfamiliar domains
+**Containers:** Kubernetes · Docker · Helm · ArgoCD
 
-Most engineers treat AI like a faster Stack Overflow. I treat it as a cognitive partner. The difference shows in the output.
+**CI/CD:** GitHub Actions · Jenkins · GitLab CI
 
-## The Foundation
+**Security:** Checkov · Trivy · Semgrep · Gitleaks · OWASP ZAP · GuardDuty · OPA Gatekeeper
 
-DevSecOps bootcamp graduate — 6 weeks of security-first training from a Global CISO before building anything. Shift-left thinking from day one.
+**Observability:** Prometheus · Grafana · ELK Stack · Datadog · Splunk
 
-## Technical Stack
+**AI/LLM:** Claude · ChatGPT · Model Context Protocol (MCP)
 
-**Cloud Platforms:** AWS | Azure | GCP  
-**Infrastructure as Code:** Terraform | Ansible | Helm  
-**Container Orchestration:** Kubernetes | Docker | EKS | ECS  
-**CI/CD & GitOps:** GitHub Actions | Jenkins | GitLab CI | ArgoCD  
-**Observability:** Prometheus | Grafana | ELK Stack | Datadog  
-**Security:** Checkov | Trivy | Semgrep | Gitleaks | OPA Gatekeeper  
-**Languages:** Python | Bash | HCL  
-**AI/ML:** MLflow | Model Context Protocol (MCP)
+---
 
-## Projects
-
-Each project was designed, architected, and executed independently — no external templates.
-
-### Multi-Cloud & Orchestration
-**[Project 20: Multi-Cloud Orchestration](https://github.com/nfroze/Project-20-Multi-Cloud-Orchestration)**  
-AWS, Azure, GCP infrastructure with Terraform, Ansible, and Datadog monitoring
-
-### AI/ML Infrastructure
-**[Project 19: AI Governance Framework](https://github.com/nfroze/Project-19-AI-Governance-Framework)**  
-Policy enforcement with OPA Gatekeeper and Terraform Sentinel
-
-**[Project 18: AI FinOps Platform](https://github.com/nfroze/Project-18-AI-FinOps-Platform)**  
-Cost optimization with Apache Kafka
-
-**[Project 17: AI Developer Platform](https://github.com/nfroze/Project-17-AI-Developer-Platform)**  
-Backstage IDP with MLflow on hybrid AWS EKS/ECS
-
-### Model Context Protocol (MCP)
-**[Project 12: MCP Meets K8s](https://github.com/nfroze/Project-12-MCP-Meets-K8s)**  
-MCP server for Kubernetes operations on AWS EKS
-
-**[Project 11: MCP IaC Security](https://github.com/nfroze/Project-11-MCP-IaC-Security)**  
-MCP server for infrastructure-as-code security analysis
-
-**[Project 10: MCP Security Ops](https://github.com/nfroze/Project-10-MCP-Security-Ops)**  
-AWS GuardDuty integration via MCP
-
-**[Project 8: Slack MCP Assistant](https://github.com/nfroze/Project-8-Slack-MCP-Assistant)**  
-MCP server for Slack automation
-
-### DevSecOps & Security
-**[Project 7: Live Threat Modeling](https://github.com/nfroze/Project-7-Live-Threat-Modeling)**  
-Real-time threat analysis
-
-**[Project 5: DevSecOps Pipeline](https://github.com/nfroze/Project-5-DevSecOps-Pipeline)**  
-Node.js deployment to EKS with integrated security scanning
-
-**[Project 4: Threat Modeling](https://github.com/nfroze/Project-4-Threat-Modeling)**  
-Healthcare platform security analysis
-
-**[Project 3: IaC Security](https://github.com/nfroze/Project-3-IaC-Security)**  
-Terraform validation and compliance
-
-### Observability
-**[Project 15: Observability Stack](https://github.com/nfroze/Project-15-Observability-Stack)**  
-ELK Stack on AWS
-
-**[Project 9: GitOps Monitoring](https://github.com/nfroze/Project-9-GitOps-ArgoCD-Monitoring)**  
-ArgoCD with Prometheus and Grafana
-
-### CI/CD Pipelines
-**[Project 16: Portfolio Pipeline](https://github.com/nfroze/Project-16-Portfolio-Pipeline)**  
-GitHub Actions deployment
-
-**[Project 13: CI/CD Pipeline Comparison](https://github.com/nfroze/Project-13-CI-CD-Pipeline-Comparison)**  
-Cross-platform pipeline analysis
-
-**[Project 1: Secure CI/CD](https://github.com/nfroze/Project-1-Secure-CI-CD)**  
-GitHub Actions with security integration
-
-### Additional Projects
-**[Project 14: 3-Tier Serverless Application](https://github.com/nfroze/Project-14-3-Tier-Serverless-Application)**  
-AWS serverless architecture
-
-**[Project 6: AI Chrome Extension](https://github.com/nfroze/Project-6-AI-Chrome-Extension)**  
-Browser-based AI tooling
-
-**[Project 2: Container Security](https://github.com/nfroze/Project-2-Container-Security)**  
-Docker image scanning
-
-## Certifications
+## 🎓 Certifications
 
 - AWS Certified Cloud Practitioner
 - CompTIA Security+
 - HashiCorp Terraform Associate
 
-All achieved through hands-on project work.
+---
 
-## What Drives Me
+## 📂 Projects
 
-My biggest fear is being wrong and not knowing it.
+20 projects built in 8 months using AI-accelerated learning. Each repo includes full documentation, architecture diagrams, and working code.
 
-That's what's behind everything I build — research over assumption, evidence over ego, accountability over pride. Build fast. Fail faster. Admit defeat before anyone has to tell me.
+### Platform & Infrastructure
 
-## Connect
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Multi-Cloud Orchestration](https://github.com/nfroze/Project-20-Multi-Cloud-Orchestration) | Infrastructure deployment across AWS, Azure, GCP | Terraform, Ansible, Datadog, GitHub Actions |
+| [AI Developer Platform](https://github.com/nfroze/Project-17-AI-Developer-Platform) | Internal developer platform with ML integration | Backstage, EKS/ECS, MLflow, ArgoCD, Helm |
+| [AI FinOps Platform](https://github.com/nfroze/Project-18-AI-FinOps-Platform) | Real-time cost tracking for AI workloads | Kafka, Strimzi, OpenCost, Prometheus, Grafana |
+| [Observability Stack](https://github.com/nfroze/Project-15-Observability-Stack) | Full ELK + Prometheus/Grafana on K8s | Elasticsearch, Logstash, Kibana, Fluentd |
+| [3-Tier Serverless App](https://github.com/nfroze/Project-14-3-Tier-Serverless-Application) | Full-stack serverless e-commerce | React, Lambda, API Gateway, DynamoDB, Terraform |
 
-**LinkedIn:** [linkedin.com/in/nfroze](https://linkedin.com/in/nfroze)  
-**Portfolio:** [noahfrost.co.uk](https://noahfrost.co.uk)  
-**Location:** United Kingdom → Open to UAE relocation  
-**Status:** British citizen, available immediately with employer visa sponsorship
+### GitOps & CI/CD
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [GitOps Monitoring](https://github.com/nfroze/Project-9-GitOps-ArgoCD-Monitoring) | ArgoCD-driven observability deployment | ArgoCD, EKS, Prometheus, Grafana, Helm |
+| [CI/CD Comparison](https://github.com/nfroze/Project-13-CI-CD-Pipeline-Comparison) | Jenkins vs GitLab CI implementation | Jenkins, GitLab CI, Terraform, Flask, Node.js |
+| [Portfolio Pipeline](https://github.com/nfroze/Project-16-Portfolio-Pipeline) | Automated static site deployment | GitHub Actions, S3, CloudFront, Terraform |
+
+### Security & DevSecOps
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [AI Governance Framework](https://github.com/nfroze/Project-19-AI-Governance-Framework) | Policy-as-code for ML workloads | Sentinel, OPA Gatekeeper, EKS, Terraform |
+| [DevSecOps Pipeline](https://github.com/nfroze/Project-5-DevSecOps-Pipeline) | Full security scanning in CI/CD | EKS, Checkov, Trivy, Semgrep, GuardDuty, Splunk |
+| [IaC Security](https://github.com/nfroze/Project-3-IaC-Security) | Terraform with Checkov scanning | Terraform, Checkov, IAM, GitHub Actions |
+| [Container Security](https://github.com/nfroze/Project-2-Container-Security) | Image scanning and DAST testing | Docker, Trivy, ECS, OWASP ZAP, ALB |
+| [Secure CI/CD](https://github.com/nfroze/Project-1-Secure-CI-CD) | Security-first pipeline foundation | GitHub Actions, Semgrep, npm audit, Gitleaks |
+| [Threat Modeling](https://github.com/nfroze/Project-4-Threat-Modeling) | STRIDE + MITRE ATT&CK analysis | STRIDE, MITRE ATT&CK, Risk Assessment |
+| [Live Threat Modeling](https://github.com/nfroze/Project-7-Live-Threat-Modeling) | Real-world OSINT security analysis | OSINT, Social Engineering, Privacy Controls |
+
+### AI & MCP Integrations
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [MCP Meets K8s](https://github.com/nfroze/Project-12-MCP-Meets-K8s) | AI-powered Kubernetes operations | MCP, EKS, ArgoCD, Prometheus, Checkov, Trivy |
+| [MCP IaC Security](https://github.com/nfroze/Project-11-MCP-IaC-Security) | AI-generated Terraform fixes from Checkov | MCP, Checkov, Node.js, GitHub Actions |
+| [MCP Security Ops](https://github.com/nfroze/Project-10-MCP-Security-Ops) | Automated GuardDuty incident response | MCP, GuardDuty, EventBridge, Lambda, Slack |
+| [Slack MCP Assistant](https://github.com/nfroze/Project-8-Slack-MCP-Assistant) | Claude Desktop to Slack integration | MCP, Slack API, Node.js |
+| [AI Chrome Extension](https://github.com/nfroze/Project-6-AI-Chrome-Extension) | LinkedIn post analysis with Claude | Chrome Extension, Claude API, JavaScript |
 
 ---
 
-*The projects show what I can build. How I built them shows I can become whatever you need.*
+## 📊 GitHub Stats
+
+<!-- 
+OPTIONAL: Include these if your stats look good. Remove if your account is new or has low activity.
+Test the links first — if the numbers are low, the project tables above are more impressive.
+-->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nfroze&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nfroze&layout=compact&theme=default&hide_border=true)
+
+---
+
+## 📫 Get in Touch
+
+- **Portfolio:** [noahfrost.co.uk](https://noahfrost.co.uk)
+- **LinkedIn:** [linkedin.com/in/nfroze](https://linkedin.com/in/nfroze)
+- **Email:** Available on portfolio
+
+---
+
+*Open to DevOps, Cloud, Platform, and DevSecOps roles. UK-based, open to relocation and remote.*
