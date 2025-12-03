@@ -83,14 +83,6 @@ Former Police Constable → DevSecOps Engineer. I bring incident response instin
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nfroze&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nfroze&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 📫 Get in Touch
 
 - **Portfolio:** [noahfrost.co.uk](https://noahfrost.co.uk)
