@@ -85,11 +85,6 @@ Former Police Constable → DevSecOps Engineer. I bring incident response instin
 
 ## 📊 GitHub Stats
 
-<!-- 
-OPTIONAL: Include these if your stats look good. Remove if your account is new or has low activity.
-Test the links first — if the numbers are low, the project tables above are more impressive.
--->
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nfroze&show_icons=true&theme=default&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nfroze&layout=compact&theme=default&hide_border=true)
