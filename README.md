@@ -70,8 +70,8 @@ I learned DevSecOps with AI, not despite it. 8 months, 15 projects, zero tutoria
 
 ## Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-noahfrost.co.uk-000000?style=flat&logo=safari&logoColor=white)](https://noahfrost.co.uk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nfroze-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nfroze)
+[![Portfolio](https://img.shields.io/badge/Portfolio-noahfrost.co.uk-000000?style=for-the-badge&logo=safari&logoColor=white)](https://noahfrost.co.uk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nfroze-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nfroze)
 
 ---
 
