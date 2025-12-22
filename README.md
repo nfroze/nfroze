@@ -23,7 +23,7 @@ I learned DevSecOps with AI, not despite it. 8 months, 15 projects, zero tutoria
 
 ## Projects
 
-15 projects built in 8 months. Each repo includes architecture diagrams, implementation decisions, and working code.
+15 projects built in 8 months. Each repo includes architecture breakdowns, key decisions, and screenshots of working deployments.
 
 ### MCP Implementations
 | Project | What It Does |
