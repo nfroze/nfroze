@@ -17,9 +17,9 @@ I learned DevSecOps with AI, not despite it. 8 months, 15 projects, zero tutoria
 
 ## Certifications
 
-[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge)](https://www.credly.com/badges/your-badge)
-[![Security+](https://img.shields.io/badge/CompTIA-Security+-EA3C3C?style=for-the-badge)](https://www.credly.com/badges/your-badge)
-[![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge)](https://www.credly.com/badges/your-badge)
+[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge)](https://www.credly.com/badges/6eed0ee7-9ba5-4ccb-8684-182caf9e43e9)
+[![Security+](https://img.shields.io/badge/CompTIA-Security+-EA3C3C?style=for-the-badge)](https://www.credly.com/badges/0d35cd29-3f0e-4700-b296-14bc2844d903)
+[![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge)](https://www.credly.com/badges/d977e3e9-cfb7-432a-b47e-0cd7804341b8)
 
 ## Projects
 
