@@ -4,6 +4,17 @@
 
 I learned DevSecOps with AI, not despite it. 8 months, 15 projects, zero tutorials—built alongside Claude and ChatGPT to understand *why*, not just *what*. Police background means I question everything, including AI output.
 
+## Homelab
+
+Autonomous AI build system running on a dedicated Mac.
+
+I designed and built **Jarvis** — an agent that takes a webapp brief and delivers a live, deployed application end to end. It generates hero art from a LoRA model I fine-tuned, animates it into a cinemagraph, writes a full build spec, dispatches Claude Code to build the entire app, and deploys to AWS with Cloudflare SSL. One shot. No manual intervention.
+
+It has its own GitHub account, its own AWS credentials, and its own deployment pipeline. Five production security webapps have been built through this system — the source code, documentation, and a cinematic scroll-driven hub site are all on Jarvis's profile.
+
+→ **Hub:** [nfroze.co.uk](https://nfroze.co.uk)
+→ **Jarvis GitHub:** [github.com/NFrozeCLAWDBOT](https://github.com/NFrozeCLAWDBOT)
+
 ## Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -17,9 +28,9 @@ I learned DevSecOps with AI, not despite it. 8 months, 15 projects, zero tutoria
 
 ## Certifications
 
-[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge)](https://www.credly.com/badges/6eed0ee7-9ba5-4ccb-8684-182caf9e43e9)
-[![Security+](https://img.shields.io/badge/CompTIA-Security+-EA3C3C?style=for-the-badge)](https://www.credly.com/badges/0d35cd29-3f0e-4700-b296-14bc2844d903)
-[![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge)](https://www.credly.com/badges/d977e3e9-cfb7-432a-b47e-0cd7804341b8)
+[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge)](https://www.credly.com/badges/your-badge)
+[![Security+](https://img.shields.io/badge/CompTIA-Security+-EA3C3C?style=for-the-badge)](https://www.credly.com/badges/your-badge)
+[![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge)](https://www.credly.com/badges/your-badge)
 
 ## Projects
 
