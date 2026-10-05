@@ -1,26 +1,26 @@
 # Noah Frost
 
-**DevSecOps Engineer** | Ex-Police Officer · AI-Native Security Builder
+**DevOps Engineer** at ai71 | Ex-Police Officer
 
-I build secure infrastructure and AI-powered security tooling. 20+ projects across CI/CD security, Kubernetes, cloud infrastructure, zero trust, supply chain security, and AI governance — built alongside Claude and ChatGPT from day one. Police background means I question everything, including AI output.
+At ai71 I delivered an LLM-powered platform end to end into a customer's own private cloud as sole author of the deployment, and I work with the customer's technical teams and non-technical stakeholders. The work below is my self-taught portfolio: builds across CI/CD security, Kubernetes, cloud infrastructure, zero trust, supply chain security, and AI governance, built alongside Claude and ChatGPT from day one. Police background means I question everything, including AI output.
 
 ## Homelab
 
 Autonomous AI build system and production-hardened Kubernetes cluster, both running on the same Mac.
 
-I designed and built **Jarvis** — an OpenClaw agent with its own AWS credentials, GitHub account, and CLI access to Claude Code. It takes a webapp brief and delivers a live, deployed application end to end: hero art from a custom LoRA model, cinemagraph animation, full build spec, autonomous code generation, and AWS deployment. One shot. No manual intervention. Five production security webapps have been built through this system:
+I designed and built **Jarvis**, an OpenClaw agent with its own AWS credentials, GitHub account, and CLI access to Claude Code. It takes a webapp brief and delivers a live, deployed application end to end: hero art from a custom LoRA model, cinemagraph animation, full build spec, autonomous code generation, and AWS deployment. One shot. No manual intervention. Five production security webapps have been built through this system:
 
 | App | What It Does | Live |
 |-----|-------------|------|
-| [Sentinel](https://github.com/NFrozeCLAWDBOT/sentinel) | Vulnerability intelligence — fuses NVD, CISA KEV, and EPSS into composite risk scores | [sentinel.nfroze.co.uk](https://sentinel.nfroze.co.uk) |
+| [Sentinel](https://github.com/NFrozeCLAWDBOT/sentinel) | Vulnerability intelligence: fuses NVD, CISA KEV, and EPSS into composite risk scores | [sentinel.nfroze.co.uk](https://sentinel.nfroze.co.uk) |
 | [Oracle](https://github.com/NFrozeCLAWDBOT/oracle) | Guided OWASP Top 10 for LLM Applications 2025 security assessment | [oracle.nfroze.co.uk](https://oracle.nfroze.co.uk) |
 | [Bastion](https://github.com/NFrozeCLAWDBOT/bastion) | Dependency risk analysis with full transitive tree resolution and CycloneDX SBOM export | [bastion.nfroze.co.uk](https://bastion.nfroze.co.uk) |
 | [Aegis](https://github.com/NFrozeCLAWDBOT/aegis) | AI regulatory compliance mapping across EU AI Act, UK GDPR, NIST AI RMF, and 3 more frameworks | [aegis.nfroze.co.uk](https://aegis.nfroze.co.uk) |
 | [Verdant](https://github.com/NFrozeCLAWDBOT/verdant) | AWS security posture dashboard against CIS Foundations Benchmark | [verdant.nfroze.co.uk](https://verdant.nfroze.co.uk) |
 
-Then I gave Jarvis a different brief: provision a Kubernetes cluster on the same Mac you run on, harden it, monitor it, and host a public build log — served by the cluster itself.
+Then I gave Jarvis a different brief: provision a Kubernetes cluster on the same Mac you run on, harden it, monitor it, and host a public build log, served by the cluster itself.
 
-K3s on Apple Silicon. Cloudflare Tunnel with zero inbound ports. 12 network policies, Pod Security Standards enforced across all namespaces, non-root pods, read-only rootfs, all capabilities dropped. Prometheus and Grafana running with 28 dashboards — publicly accessible. Jarvis queries the cluster via kubectl in real time.
+K3s on Apple Silicon. Cloudflare Tunnel with zero inbound ports. 12 network policies, Pod Security Standards enforced across all namespaces, non-root pods, read-only rootfs, all capabilities dropped. Prometheus and Grafana running with 28 dashboards, publicly accessible. Jarvis queries the cluster via kubectl in real time.
 
 → **Webapps Hub:** [nfroze.co.uk](https://nfroze.co.uk) · **K8s Build Log:** [k3s.nfroze.co.uk](https://k3s.nfroze.co.uk) · **Live Dashboard:** [dashboard.nfroze.co.uk](https://dashboard.nfroze.co.uk) · **Jarvis GitHub:** [github.com/NFrozeCLAWDBOT](https://github.com/NFrozeCLAWDBOT)
 
@@ -39,26 +39,26 @@ K3s on Apple Silicon. Cloudflare Tunnel with zero inbound ports. 12 network poli
 
 ## Certifications
 
-[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge)](https://www.credly.com/badges/your-badge)
-[![Security+](https://img.shields.io/badge/CompTIA-Security+-EA3C3C?style=for-the-badge)](https://www.credly.com/badges/your-badge)
-[![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge)](https://www.credly.com/badges/your-badge)
+[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge)](https://www.credly.com/badges/6eed0ee7-9ba5-4ccb-8684-182caf9e43e9)
+[![Security+](https://img.shields.io/badge/CompTIA-Security+-EA3C3C?style=for-the-badge)](https://www.credly.com/badges/0d35cd29-3f0e-4700-b296-14bc2844d903)
+[![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge)](https://www.credly.com/badges/d977e3e9-cfb7-432a-b47e-0cd7804341b8)
 
 ## Projects
 
 ### Security Engineering
 | Project | What It Does |
 |---------|--------------|
-| [Zero Trust Kubernetes Architecture](https://github.com/nfroze/Zero-Trust-Kubernetes-Architecture) | Cilium eBPF, SPIFFE/SPIRE workload identity, L7 micro-segmentation, WireGuard — NIST 800-207 aligned |
+| [Zero Trust Kubernetes Architecture](https://github.com/nfroze/Zero-Trust-Kubernetes-Architecture) | Cilium eBPF, SPIFFE/SPIRE workload identity, L7 micro-segmentation, WireGuard. NIST 800-207 aligned |
 | [Supply Chain Security Pipeline](https://github.com/nfroze/Supply-Chain-Security-Pipeline) | Syft SBOM generation, keyless cosign signing, SLSA provenance, Kyverno admission control on EKS |
-| [Secrets Management Vault](https://github.com/nfroze/Secrets-Management-Vault) | HashiCorp Vault HA on EKS — dynamic DB/AWS/PKI/Transit secrets, KMS auto-unseal, Vault Secrets Operator |
-| [Agentic AI Security Testing](https://github.com/nfroze/Agentic-AI-Security-Testing) | Automated security probes against OWASP Top 10 for LLMs and Agentic AI — ECS Fargate, dual CI/CD (21 jobs) |
+| [Secrets Management Vault](https://github.com/nfroze/Secrets-Management-Vault) | HashiCorp Vault HA on EKS: dynamic DB/AWS/PKI/Transit secrets, KMS auto-unseal, Vault Secrets Operator |
+| [Agentic AI Security Testing](https://github.com/nfroze/Agentic-AI-Security-Testing) | Automated security probes against OWASP Top 10 for LLMs and Agentic AI. ECS Fargate, dual CI/CD (21 jobs) |
 
 ### DevSecOps & CI/CD
 | Project | What It Does |
 |---------|--------------|
 | [End-to-End DevSecOps Transformation](https://github.com/nfroze/End-to-End-DevSecOps-Transformation) | Full pipeline: SAST/DAST/SCA/IaC scanning → EKS → GuardDuty/Security Hub/CloudTrail → Splunk Cloud SIEM |
-| [AI/ML Governance with Policy-as-Code](https://github.com/nfroze/AI-ML-Governance-Policy-as-Code) | Sentinel blocks bad Terraform; OPA Gatekeeper blocks untracked models — EU AI Act risk mapping |
-| [CI/CD Pipeline Comparison](https://github.com/nfroze/CI-CD-Pipeline-Comparison) | Jenkins vs GitLab CI deploying to shared AWS infrastructure — side-by-side operational comparison |
+| [AI/ML Governance with Policy-as-Code](https://github.com/nfroze/AI-ML-Governance-Policy-as-Code) | Sentinel blocks bad Terraform; OPA Gatekeeper blocks untracked models. EU AI Act risk mapping |
+| [CI/CD Pipeline Comparison](https://github.com/nfroze/CI-CD-Pipeline-Comparison) | Jenkins vs GitLab CI deploying to shared AWS infrastructure, with a side-by-side operational comparison |
 | [Portfolio CI/CD Pipeline](https://github.com/nfroze/Portfolio-CI-CD-Pipeline) | S3 + CloudFront + Route 53 with automated cache invalidation on every push |
 
 ### Kubernetes & Observability
@@ -70,12 +70,12 @@ K3s on Apple Silicon. Cloudflare Tunnel with zero inbound ports. 12 network poli
 ### Threat Modeling
 | Project | What It Does |
 |---------|--------------|
-| [Healthcare STRIDE Threat Model](https://github.com/nfroze/Healthcare-STRIDE-Threat-Model) | 15 prioritised threats mapped to HIPAA, MITRE ATT&CK, and OWASP — with working code mitigations |
+| [Healthcare STRIDE Threat Model](https://github.com/nfroze/Healthcare-STRIDE-Threat-Model) | 15 prioritised threats mapped to HIPAA, MITRE ATT&CK, and OWASP, with working code mitigations |
 
 ### Platform Engineering
 | Project | What It Does |
 |---------|--------------|
-| [3-Tier Serverless Application](https://github.com/nfroze/3-Tier-Serverless-Application) | React + Lambda + DynamoDB + CloudFront — fully modular Terraform, one Lambda per CRUD operation |
+| [3-Tier Serverless Application](https://github.com/nfroze/3-Tier-Serverless-Application) | React + Lambda + DynamoDB + CloudFront. Fully modular Terraform, one Lambda per CRUD operation |
 | [AI/ML Developer Platform](https://github.com/nfroze/AI-ML-Developer-Platform) | Backstage + MLflow + ArgoCD on hybrid EKS/ECS with GPU cost tracking |
 
 ### AI Governance & FinOps
