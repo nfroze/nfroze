@@ -2,7 +2,7 @@
 
 **DevOps Engineer** at ai71 | Ex-Police Officer
 
-At ai71 I delivered an LLM-powered platform end to end into a customer's own private cloud as sole author of the deployment, and I work with the customer's technical teams and non-technical stakeholders. The work below is my self-taught portfolio: builds across CI/CD security, Kubernetes, cloud infrastructure, zero trust, supply chain security, and AI governance, built alongside Claude and ChatGPT from day one. Police background means I question everything, including AI output.
+At ai71 I deploy Ask, its enterprise AI platform, on client private cloud and Azure. I built a federal government client's staging as sole author and was its sole DevOps engineer through production go-live, speaking for DevOps on daily calls with the client and their hosting provider. The work below is my self-taught portfolio: builds across CI/CD security, Kubernetes, cloud infrastructure, zero trust, supply chain security, and AI governance, built alongside Claude and ChatGPT from day one. Police background means I question everything, including AI output.
 
 ## Homelab
 
